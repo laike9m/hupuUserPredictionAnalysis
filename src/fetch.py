@@ -3,30 +3,39 @@
 注意:页面编码实际上是gbk, 但是headcharset里面写的是gb2312, 导致繁体字符无法正确解码！！
 """
 
-import concurrent.futures as cf
 import lxml.html as html
 import re
 
 from lxml import etree
 from html.parser import HTMLParser
+from collections import OrderedDict
 from concurrent.futures import ThreadPoolExecutor
 
 import requests
-from clubdata import club
+from clubdata import club, clubname_alias
+
 
 class DataCollector():
 
     def __init__(self):
         self.base_url = 'http://bbs.hupu.com/9039396.html'
         self.page_url_list = ()
-        self.vs = ('拜仁VS阿森纳', '马竞VS米兰', '巴萨VS曼城', '巴黎VS勒沃库森')
-        self.vs_pattern = re.compile(r'({0}.*?\d).*({1}.*?\d).*({2}.*?\d).*({3}.*?\d)'.format(*self.vs))
+        self.vs = ('拜仁VS阿森[纳|娜]', '马[竞|竟]VS米兰', '巴萨VS曼城', '巴黎VS勒沃库森')
+        self.vs_pattern = re.compile(r'({0}.*?\d).*({1}.*?\d).*({2}.*?\d).*({3}.*?\d)'\
+                                     .format(*self.vs), flags=re.DOTALL | re.IGNORECASE)
+        self.vs_pattern2 = re.compile(r'\d{4}')  # 1331
         self.level_pattern = re.compile(r'<span class="f666">论坛等级：</span>(\d+)')
         self.page_amount = self.get_page_amount()
+        self.fetched_info = []  # final return value
 
     @staticmethod
     def httpget(url):
-        r = requests.get(url)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 6.1; \
+                WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36",
+            "Referer": "http://bbs.hupu.com/9039396.html",
+        }
+        r = requests.get(url, headers=headers)
         r.encoding = 'gbk'
         return r
 
@@ -40,7 +49,8 @@ class DataCollector():
             page_amount = last_match.strip('<>')
             print("page amount is " + page_amount)
             page_amount = int(page_amount)
-            self.page_url_list = tuple(self.base_url.rstrip(".html")+'-%d.html' % i for i in range(2, page_amount+1))
+            self.page_url_list = tuple(self.base_url.rstrip(".html") + '-%d.html' %\
+                                       ii for ii in range(2, page_amount + 1))
             self.page_url_list = (self.base_url,) + self.page_url_list
             return page_amount
         else:
@@ -52,11 +62,11 @@ class DataCollector():
         """
         r = self.httpget(page_url)
         r.encoding = 'gbk'
-        a_class_u = html.fromstring(r.text).cssselect(".u")
+        a_class_u = html.fromstring(r.text).cssselect("div.left>a.u")
         if page_url == self.base_url:
             # first page, strip first two(LZ)
-            user_list = [a.text for a in a_class_u[2:]]
-            user_link_list = [a.attrib['href'] for a in a_class_u[2:]]
+            user_list = [a.text for a in a_class_u[1:]]
+            user_link_list = [a.attrib['href'] for a in a_class_u[1:]]
         else:
             user_list = [a.text for a in a_class_u]
             user_link_list = [a.attrib['href'] for a in a_class_u]
@@ -82,7 +92,7 @@ class DataCollector():
             return userinfo_onepage{username:userinfo, ...}
         """
         user_list = self.get_userlist_onepage(page_url)
-        userinfo_onepage = {}
+        userinfo_onepage = OrderedDict()
 
         def get_userinfo(userinfo_link):  # 不定义成类的函数好不好?
             userinfo = {'level': 0}
@@ -93,8 +103,10 @@ class DataCollector():
 
             for affiliation in affiliation_list:
                 clubname = affiliation.text
+                if clubname in clubname_alias:
+                    clubname = clubname_alias[clubname]  # 队名转换
                 if clubname in club:
-                    userinfo[club[clubname]+'主队'] = clubname
+                    userinfo[club[clubname] + '主队'] = clubname
                     #print(club[clubname]+'主队: '+clubname)
             # 等级
             try:
@@ -109,14 +121,14 @@ class DataCollector():
                 interests_part2 = userinfo_page.cssselect("span#j_hobby_m")
                 interests_part2 = interests_part2[0].text if interests_part2 else ''
                 interests = interests_part1 + interests_part2
-                interests = interests[interests.index('：')+1:].split()
+                interests = interests[interests.index('：') + 1:].split()
                 userinfo['interest'] = interests
                 #print(interests)
             return userinfo
 
         for user in user_list:
             username, userlink = user
-            print(username)
+            #print(username)
             userinfo = get_userinfo(userlink)
             userinfo_onepage[username] = userinfo
         return userinfo_onepage
@@ -144,8 +156,12 @@ class DataCollector():
             if results:
                 prediction_list_onepage.append(tuple(vs_result[-1] for vs_result in results.groups()))
             else:
-                prediction_list_onepage.append(None)
-                print("get prediction error! pageurl: {0} {1}".format(page_url, prediction_text.index(prediction)))
+                results = re.search(self.vs_pattern2, prediction)
+                if results:
+                    prediction_list_onepage.append(tuple(results.group()))
+                else:
+                    prediction_list_onepage.append(None)
+                    print("get prediction error! pageurl: {0} {1}".format(page_url, prediction_text.index(prediction)))
         return prediction_list_onepage
 
     def fetch_onepage(self, page_url):
@@ -154,8 +170,20 @@ class DataCollector():
         assert len(userinfo_onepage) == len(prediction_list_onepage), \
             "length not equal, pageurl: {0}".format(page_url)
         print("page %d fetch success" % self.page_url_list.index(page_url))
+        for (username, userinfo), userprediction in zip(userinfo_onepage.items(), prediction_list_onepage):
+            if userprediction:
+                self.fetched_info.append({'name': username, 'info': userinfo, 'prediction': userprediction})
+
+    def fetch_all(self):
+        with ThreadPoolExecutor(max_workers=4) as executor:
+            for page_url in self.page_url_list:
+                executor.submit(self.fetch_onepage, page_url,)
+
 
 if __name__ == "__main__":
     test = DataCollector()
-    for i in range(test.page_amount):
-        test.fetch_onepage(test.page_url_list[i])
+    test.fetch_all()
+    #test.fetch_onepage(test.base_url)
+    with open("fetched_info.txt", 'wt', encoding='utf-8') as f:
+        for info_item in test.fetched_info:
+            f.write(str(info_item) + '\n')
