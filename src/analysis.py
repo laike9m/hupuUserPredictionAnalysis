@@ -28,7 +28,7 @@ import pymongo
 import conf
 from clubdata import club
 
-RESULTS = (1, 3, 3, 3)
+RESULTS = conf.RESULTS[conf.page_id]
 LEAGUE = ('laliga', 'premierleague', 'ligue1', 'bundesliga', 'seriea')
 LEAGUE2 = tuple((x, y) for x in LEAGUE for y in LEAGUE[LEAGUE.index(x) + 1:])
 
@@ -78,8 +78,9 @@ class DataAnalysis():
 
     def calc_loi_correlation(self):
         from pprint import pprint
-        stats = {k: {'hit': 0, 'gap': 0, 'amount': 0} for k in ('null',) + LEAGUE}
         self.collection.ensure_index('loi')  # this is a multikey index
+
+        stats = {k: {'hit': 0, 'gap': 0, 'amount': 0} for k in ('null',) + LEAGUE}
         for league in LEAGUE:
             for doc in self.collection.find({'loi': league}):
                 stats[league]['hit'] += int(doc['hit'])

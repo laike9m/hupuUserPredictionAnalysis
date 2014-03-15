@@ -21,7 +21,7 @@ class DataCollector():
     def __init__(self):
         self.base_url = 'http://bbs.hupu.com/%d.html' % conf.page_id
         self.page_url_list = ()
-        self.vs = ('拜仁VS阿森[纳|娜]', '马[竞|竟]VS米兰', '巴萨VS曼城', '巴黎VS勒沃库森')
+        self.vs = conf.VS[conf.page_id]
         self.vs_pattern = re.compile(r'({0}.*?\d).*({1}.*?\d).*({2}.*?\d).*({3}.*?\d)'\
                                      .format(*self.vs), flags=re.DOTALL | re.IGNORECASE)
         self.vs_pattern2 = re.compile(r'\d{4}')  # 1331
