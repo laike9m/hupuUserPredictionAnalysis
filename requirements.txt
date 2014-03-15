@@ -1,4 +1,5 @@
 lxml
 requests
 pymongo
+xlwt-future
 

@@ -1,0 +1,572 @@
+{'name': 'MESSI-虾', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'interest': ['巴塞罗那'], 'level': 22}}
+{'name': '叫我马特文', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['皇家马德里'], 'level': 41}}
+{'name': '卢克肖', 'prediction': ('3', '1', '0', '1'), 'info': {'interest': ['切尔西'], 'level': 2}}
+{'name': 'Benke', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联'], 'level': 26}}
+{'name': '沸腾的空虚', 'prediction': ('1', '3', '3', '3'), 'info': {'level': 4}}
+{'name': 'txshin', 'prediction': ('3', '1', '1', '3'), 'info': {'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '托特纳姆热刺', '佛罗伦萨', '国际米兰', '尤文图斯', '拉齐奥', 'AC米兰', '那不勒斯', '罗马', '马德里竞技', '巴塞罗那', '塞维利亚', '瓦伦西亚', '皇家马德里', '毕尔巴鄂竞技', '拜仁慕尼黑', '勒沃库森', '多特蒙德', '沙尔克04', '不莱梅', '汉诺威96', '门兴格拉德巴赫', '里昂', '波尔多', '巴黎圣日耳曼', '马赛', '里尔'], 'level': 10}}
+{'name': 'ifhero', 'prediction': ('0', '3', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['曼联', '皇家马德里', '广州恒大'], 'level': 34}}
+{'name': '加藤胜', 'prediction': ('0', '0', '0', '1'), 'info': {'interest': ['阿森纳', '西汉姆'], 'level': 21}}
+{'name': '卡片的恩赐', 'prediction': ('0', '3', '3', '3'), 'info': {'interest': ['阿森纳', 'AC米兰', '马德里竞技', '多特蒙德'], 'level': 14}}
+{'name': '_____小柒丶', 'prediction': ('3', '0', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['曼城', '皇家马德里'], 'level': 12}}
+{'name': 'kunmzj', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 5}}
+{'name': 'aadream', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['法拉利', '阿森纳', '曼联', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 4}}
+{'name': '我干过Moyes', 'prediction': ('1', '1', '1', '3'), 'info': {'interest': ['曼联'], 'level': 1}}
+{'name': '紫石英', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['拜仁慕尼黑', '江苏舜天'], 'level': 1}}
+{'name': '默铭寂', 'prediction': ('3', '3', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '纽卡斯尔联', 'interest': ['法拉利', '拜仁慕尼黑', '多特蒙德', '德国(欧洲杯)'], 'seriea主队': '佛罗伦萨', 'level': 14}}
+{'name': '俺得意的笑', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联'], 'level': 6}}
+{'name': '66柯66哀', 'prediction': ('1', '1', '1', '1'), 'info': {'level': 2}}
+{'name': '大圣拉拉纳', 'prediction': ('0', '0', '0', '3'), 'info': {'premierleague主队': '利物浦', 'level': 1}}
+{'name': '南海恶神', 'prediction': ('3', '3', '1', '3'), 'info': {'bundesliga主队': '沙尔克04', 'interest': ['拜仁慕尼黑', '沙尔克04'], 'level': 4}}
+{'name': '下周一', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 0}}
+{'name': '皇马爆菊丸', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '曼联', 'seriea主队': 'AC米兰', 'ligue1主队': '巴黎圣日耳曼', 'level': 8}}
+{'name': '风云fy', 'prediction': ('3', '3', '1', '3'), 'info': {'level': 1}}
+{'name': 'se7en_element', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['阿森纳', '切尔西', '利物浦', '曼联', '巴塞罗那', '皇家马德里'], 'level': 27}}
+{'name': '北伦敦的红', 'prediction': ('3', '3', '0', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 11}}
+{'name': '小空翼', 'prediction': ('0', '3', '0', '1'), 'info': {'laliga主队': '巴塞罗那', 'interest': ['曼城', '巴塞罗那', '多特蒙德', '上海东亚', '荷兰(欧洲杯)'], 'level': 17}}
+{'name': '一鶴之殤一', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'seriea主队': '拉齐奥', 'level': 11}}
+{'name': 'znszwrroman', 'prediction': ('1', '3', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['洛杉矶湖人', '比利亚雷亚尔', '拜仁慕尼黑'], 'level': 40}}
+{'name': 'ianua', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '拜仁慕尼黑', 'interest': ['波士顿凯尔特人', '圣安东尼奥马刺', '法拉利', '尤文图斯', '巴塞罗那', '拜仁慕尼黑', '德国(欧洲杯)'], 'seriea主队': '尤文图斯', 'level': 27}}
+{'name': 'Speedling', 'prediction': ('1', '1', '0', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 15}}
+{'name': '闷声作大死', 'prediction': ('0', '3', '1', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'seriea主队': 'AC米兰', 'interest': ['阿森纳', '切尔西', '曼城', '曼联', '托特纳姆热刺', 'AC米兰', '巴塞罗那', '皇家马德里', '多特蒙德', '上海东亚', '河南建业'], 'level': 11}}
+{'name': '出狱祝贺', 'prediction': ('3', '1', '1', '3'), 'info': {'level': 44}}
+{'name': '炊烟与牧歌', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '利物浦', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['芝加哥公牛', '利物浦', 'AC米兰', '巴黎圣日耳曼', '广州恒大', '意大利(欧洲杯)'], 'seriea主队': 'AC米兰', 'level': 4}}
+{'name': '冻顶乌龙茶', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 17}}
+{'name': 'huweikobe', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '曼联', 'interest': ['洛杉矶湖人'], 'level': 14}}
+{'name': '图巴列夫', 'prediction': ('3', '1', '3', '3'), 'info': {'level': 12}}
+{'name': '罗瑞迪', 'prediction': ('1', '0', '3', '3'), 'info': {'interest': ['尤文图斯'], 'seriea主队': '尤文图斯', 'level': 9}}
+{'name': 'PP将', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['法拉利', '西班牙(欧洲杯)'], 'level': 23}}
+{'name': '似水丶流年', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '曼城', 'interest': ['曼城', '托特纳姆热刺'], 'level': 9}}
+{'name': '鬼神再临', 'prediction': ('3', '0', '1', '3'), 'info': {'interest': ['埃弗顿', 'AC米兰', '乌迪内斯'], 'level': 4}}
+{'name': 'cocoapuff', 'prediction': ('3', '1', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑', '北京国安', '德国(欧洲杯)'], 'level': 21}}
+{'name': '过去的过去', 'prediction': ('0', '1', '0', '3'), 'info': {'interest': ['波士顿凯尔特人', '休斯顿火箭', '迈凯伦', '阿森纳', '皇家马德里', '梅塞德斯-奔驰'], 'level': 30}}
+{'name': '毅腾切尔西', 'prediction': ('1', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'interest': ['切尔西'], 'seriea主队': '罗马', 'level': 17}}
+{'name': '温布利奇迹', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['阿森纳', '曼城', '尤文图斯', '马德里竞技', '巴塞罗那', '拜仁慕尼黑', '勒沃库森'], 'level': 6}}
+{'name': 'wmr987', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '托特纳姆热刺', '广州恒大', '上海东亚', '伯明翰'], 'level': 25}}
+{'name': '斗殴能手', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '曼城', 'interest': ['圣安东尼奥马刺', '洛杉矶湖人', '皇家马德里'], 'level': 18}}
+{'name': '.鹰魂不散', 'prediction': ('3', '1', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['罗马', '皇家马德里'], 'seriea主队': '罗马', 'level': 28}}
+{'name': '老虎爱吃草', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '马德里竞技', 'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'seriea主队': '罗马', 'interest': ['阿森纳', '利物浦', '曼城', '托特纳姆热刺', '马德里竞技', '瓦伦西亚', '汉堡', '多特蒙德', '江苏舜天', '西班牙(欧洲杯)'], 'level': 3}}
+{'name': '幻想中进行', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 0}}
+{'name': '冥河天王', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['国际米兰'], 'level': 37}}
+{'name': 'mzchenjiu', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['瓦伦西亚', '广州恒大', '广州富力', '深圳红钻', '广东日之泉'], 'level': 16}}
+{'name': '小小石头子', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '西汉姆', '佛罗伦萨', '国际米兰', '尤文图斯', 'AC米兰', '罗马', '都灵', '马德里竞技', '巴塞罗那', '塞维利亚', '瓦伦西亚', '皇家马德里', '比利亚雷亚尔', '拉科鲁尼亚', '希洪竞技', '毕尔巴鄂竞技', '马洛卡', '西班牙人', '拜仁慕尼黑', '多特蒙德', '沙尔克04', '不莱梅', '俄罗斯(欧洲杯)', '德国(欧洲杯)', '意大利(欧洲杯)', '乌克兰(欧洲杯)', '英格兰(欧洲杯)'], 'level': 7}}
+{'name': 'kakaxi1899', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['芝加哥公牛', '洛杉矶湖人', '山东金狮', '法拉利', 'AC米兰'], 'seriea主队': 'AC米兰', 'level': 72}}
+{'name': '收获日', 'prediction': ('0', '3', '0', '3'), 'info': {'interest': ['印第安纳步行者', '阿森纳'], 'level': 10}}
+{'name': '波多尔司机', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['法拉利', '阿森纳'], 'level': 23}}
+{'name': '时针_停摆', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['纽约尼克斯', '切尔西'], 'level': 10}}
+{'name': '库兰是我姐', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['利物浦'], 'level': 17}}
+{'name': 'godse', 'prediction': ('0', '3', '0', '3'), 'info': {'interest': ['切尔西'], 'level': 9}}
+{'name': 'HCR7', 'prediction': ('0', '0', '0', '1'), 'info': {'laliga主队': '皇家马德里', 'interest': ['阿森纳', '切尔西', '托特纳姆热刺', '皇家马德里', '广州恒大', '山东鲁能', '石家庄骏豪'], 'level': 9}}
+{'name': '一世钟情', 'prediction': ('0', '3', '3', '3'), 'info': {'interest': ['切尔西'], 'level': 1}}
+{'name': '拜仁血液', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 58}}
+{'name': 'Just-Do-It', 'prediction': ('1', '1', '0', '1'), 'info': {'interest': ['费城76人', '福建中华鲟', '切尔西', '罗马', '皇家马德里', '多特蒙德', '意大利(欧洲杯)'], 'level': 87}}
+{'name': '574411194', 'prediction': ('3', '0', '1', '3'), 'info': {'interest': ['波士顿凯尔特人', '克利夫兰骑士', '菲尼克斯太阳'], 'seriea主队': 'AC米兰', 'level': 15}}
+{'name': '神库里', 'prediction': ('3', '0', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'interest': ['金州勇士', '切尔西', '皇家马德里'], 'seriea主队': 'AC米兰', 'level': 28}}
+{'name': '来来往往去', 'prediction': ('3', '0', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑', '德国(欧洲杯)'], 'level': 21}}
+{'name': 'bibinn12', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 25}}
+{'name': 'knightangel', 'prediction': ('3', '3', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑', '汉堡', '勒沃库森', '多特蒙德', '沙尔克04', '斯图加特'], 'level': 25}}
+{'name': '阿狸lili', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑', '沙尔克04'], 'level': 26}}
+{'name': 'chesterfield00', 'prediction': ('1', '3', '0', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '曼城', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['波士顿凯尔特人', '纽约尼克斯', '迈阿密热火', '洛杉矶快船', '洛杉矶湖人', '阿森纳', '曼城', '多特蒙德', '巴黎圣日耳曼', '摩纳哥', '江苏舜天'], 'level': 14}}
+{'name': '落落刺', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['迈阿密热火', '达拉斯小牛', '阿森纳', '切尔西', '曼联', '尤文图斯', 'AC米兰', '巴塞罗那', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '广州恒大', '江苏舜天', '贵州人和', '荷兰(欧洲杯)', '德国(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)', '法国(欧洲杯)', '英格兰(欧洲杯)'], 'level': 10}}
+{'name': '陆科帆', 'prediction': ('0', '0', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '沙尔克04', 'premierleague主队': '阿森纳', 'seriea主队': 'AC米兰', 'interest': ['纽约尼克斯', '多伦多猛龙', '孟菲斯灰熊', '丹佛掘金', '波特兰开拓者', '阿森纳', '切尔西', '曼城', '皇家马德里', '江苏舜天', '荷兰(欧洲杯)', '葡萄牙(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)'], 'level': 36}}
+{'name': '占卜龟甲', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '巴塞罗那', 'premierleague主队': '利物浦', 'interest': ['阿森纳', '切尔西', '埃弗顿', '利物浦', '曼城', '曼联', '托特纳姆热刺', '佛罗伦萨', '国际米兰', 'AC米兰', '那不勒斯', '罗马', '马德里竞技', '巴塞罗那', '塞维利亚', '瓦伦西亚', '皇家马德里', '比利亚雷亚尔', '马拉加', '拜仁慕尼黑', '勒沃库森', '多特蒙德', '沙尔克04', '荷兰(欧洲杯)', '德国(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)', '克罗地亚(欧洲杯)', '法国(欧洲杯)', '英格兰(欧洲杯)'], 'level': 9}}
+{'name': '宝木深蓝', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['法拉利', '红牛', '阿森纳', '切尔西', '皇家马德里', '拜仁慕尼黑', '勒沃库森', '多特蒙德', '沙尔克04', '梅塞德斯-奔驰', '德国(欧洲杯)'], 'level': 2}}
+{'name': 'I.Gundogan', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['夏洛特山猫', '国际米兰'], 'seriea主队': '国际米兰', 'level': 13}}
+{'name': 'Munchen86', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'ligue1主队': '里昂', 'interest': ['拜仁慕尼黑', '沙尔克04'], 'level': 31}}
+{'name': '是个发', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '阿森纳', 'ligue1主队': '里昂', 'interest': ['红牛', '阿森纳', '拉齐奥', '皇家马德里', '多特蒙德', '沙尔克04', '德国(欧洲杯)'], 'level': 37}}
+{'name': 'woailuo13457', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['阿森纳'], 'level': 9}}
+{'name': 'johnlatin', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['休斯顿火箭', '金州勇士', '法拉利', '阿森纳', '罗马', '巴塞罗那', '瓦伦西亚', '多特蒙德'], 'level': 26}}
+{'name': 'vzsai', 'prediction': ('1', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'premierleague主队': '曼联', 'interest': ['波士顿凯尔特人', '迈凯伦', '红牛', '曼联', 'AC米兰', '巴塞罗那'], 'level': 7}}
+{'name': '爽上云霄', 'prediction': ('3', '1', '3', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '切尔西', 'interest': ['法拉利', '红牛', '切尔西', '多特蒙德'], 'seriea主队': '国际米兰', 'level': 7}}
+{'name': 'osume', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['休斯顿火箭'], 'level': 22}}
+{'name': 'yx2001001', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '曼联', 'seriea主队': 'AC米兰', 'level': 5}}
+{'name': '282286498', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'level': 4}}
+{'name': 'dy9148', 'prediction': ('3', '3', '3', '1'), 'info': {'interest': ['巴塞罗那'], 'level': 2}}
+{'name': 'qxwcev', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'level': 8}}
+{'name': 'xl19960117', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 1}}
+{'name': '双龙', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['江苏龙', '拜仁慕尼黑'], 'level': 26}}
+{'name': '虹色Liverpool', 'prediction': ('1', '3', '1', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['洛杉矶湖人', '法拉利', '利物浦', '多特蒙德', '上海东亚', '英格兰(欧洲杯)'], 'seriea主队': '那不勒斯', 'level': 12}}
+{'name': '蓝军圣婴', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西'], 'level': 15}}
+{'name': '22号球衣.', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 6}}
+{'name': 'guizhedeye', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 4}}
+{'name': 'jsyczhudongdong', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['切尔西', '佛罗伦萨', '国际米兰', '不莱梅', '上海东亚'], 'level': 13}}
+{'name': 'doublebubble', 'prediction': ('3', '0', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['达拉斯小牛', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 39}}
+{'name': 'doublebubble13', 'prediction': ('3', '0', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['达拉斯小牛', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 39}}
+{'name': 'wofengfengni', 'prediction': ('1', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '沙尔克04', 'premierleague主队': '切尔西', 'seriea主队': '那不勒斯', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['皇家马德里'], 'level': 21}}
+{'name': 'HYC9', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['波士顿凯尔特人', '印第安纳步行者'], 'level': 17}}
+{'name': 'mousesports', 'prediction': ('3', '1', '1', '3'), 'info': {'level': 9}}
+{'name': '岂曰无名', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '切尔西', 'seriea主队': '国际米兰', 'level': 7}}
+{'name': '阿甘灰太狼', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '利物浦', 'interest': ['利物浦', '皇家马德里'], 'level': 15}}
+{'name': '奥巴牛人', 'prediction': ('0', '3', '1', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['休斯顿火箭', '法拉利', '阿森纳'], 'level': 16}}
+{'name': 'Frezing', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'interest': ['拜仁慕尼黑', '德国(欧洲杯)'], 'level': 28}}
+{'name': 'ashely725', 'prediction': ('0', '3', '0', '3'), 'info': {'interest': ['休斯顿火箭', '切尔西', '利物浦', '国际米兰', '皇家马德里'], 'level': 12}}
+{'name': 'add0789', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['切尔西', '曼联', '上海东亚', '英格兰(欧洲杯)'], 'level': 5}}
+{'name': 'BAYERN-TRIPLE', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '马德里竞技', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '托特纳姆热刺', 'seriea主队': '拉齐奥', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['拜仁慕尼黑', '柏林赫塔', '勒沃库森', '多特蒙德', '沙尔克04', '沃尔夫斯堡', '斯图加特', '门兴格拉德巴赫'], 'level': 1}}
+{'name': 'gono', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 23}}
+{'name': '霜打的茄子', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '切尔西', 'level': 2}}
+{'name': 'supergun', 'prediction': ('3', '0', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '利物浦', 'seriea主队': 'AC米兰', 'ligue1主队': '波尔多', 'level': 9}}
+{'name': '绿白娃娃', 'prediction': ('0', '3', '0', '3'), 'info': {'bundesliga主队': '不莱梅', 'interest': ['尤文图斯', '沙尔克04', '不莱梅'], 'level': 16}}
+{'name': '虾皮君', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '马德里竞技', 'interest': ['西班牙(欧洲杯)'], 'level': 10}}
+{'name': '真心非小號', 'prediction': ('3', '3', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'interest': ['波士顿凯尔特人', '江苏龙', '拉齐奥', '拜仁慕尼黑', '上海东亚'], 'seriea主队': '拉齐奥', 'level': 19}}
+{'name': '秘蓝岛', 'prediction': ('3', '0', '3', '3'), 'info': {'premierleague主队': '利物浦', 'seriea主队': 'AC米兰', 'level': 42}}
+{'name': '希灵的过去', 'prediction': ('3', '0', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'seriea主队': '拉齐奥', 'level': 13}}
+{'name': '马猴煮酒', 'prediction': ('0', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'interest': ['切尔西', '皇家马德里', '英格兰(欧洲杯)'], 'level': 45}}
+{'name': 'lwrbay', 'prediction': ('3', '0', '3', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 12}}
+{'name': '殺殺', 'prediction': ('3', '3', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑', '勒沃库森', '沙尔克04', '科隆', '德国(欧洲杯)', '乌克兰(欧洲杯)'], 'level': 25}}
+{'name': 'Lstefanie', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳', '山东鲁能'], 'level': 12}}
+{'name': '寒雨连江L', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '切尔西', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['芝加哥公牛', '印第安纳步行者', '圣安东尼奥马刺', '洛杉矶湖人', '八一火箭'], 'level': 22}}
+{'name': '晓荣_durant35', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['广东华南虎'], 'level': 36}}
+{'name': 'jimhenhen', 'prediction': ('3', '1', '1', '3'), 'info': {'level': 20}}
+{'name': '312731321', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['多特蒙德'], 'level': 2}}
+{'name': '绿茵导演', 'prediction': ('0', '3', '0', '3'), 'info': {'interest': ['阿森纳'], 'level': 2}}
+{'name': '魂荡', 'prediction': ('0', '3', '0', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['法拉利', '阿森纳'], 'level': 21}}
+{'name': '3215963', 'prediction': ('1', '3', '1', '3'), 'info': {'interest': ['阿森纳', '拉齐奥', '皇家马德里'], 'level': 9}}
+{'name': '真菠萝大帝', 'prediction': ('3', '1', '1', '3'), 'info': {'laliga主队': '瓦伦西亚', 'bundesliga主队': '不莱梅', 'premierleague主队': '阿斯顿维拉', 'seriea主队': '佛罗伦萨', 'ligue1主队': '波尔多', 'interest': ['索伯', '不莱梅', '贵州人和', '梅塞德斯-奔驰'], 'level': 9}}
+{'name': '考拉爱桉树', 'prediction': ('1', '1', '0', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['利物浦', '托特纳姆热刺'], 'level': 29}}
+{'name': '8800789', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '托特纳姆热刺', 'seriea主队': '国际米兰', 'interest': ['洛杉矶湖人'], 'level': 21}}
+{'name': 'sherry钰', 'prediction': ('3', '1', '1', '3'), 'info': {'level': 0}}
+{'name': 'shi-henry', 'prediction': ('0', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '阿森纳', 'interest': ['洛杉矶湖人', '皇家马德里'], 'level': 12}}
+{'name': 'nwutony', 'prediction': ('0', '3', '0', '3'), 'info': {'laliga主队': '马德里竞技', 'premierleague主队': '利物浦', 'interest': ['阿森纳', '切尔西', '曼联', '佛罗伦萨', '国际米兰', 'AC米兰', '那不勒斯', '罗马'], 'seriea主队': '罗马', 'level': 2}}
+{'name': '写书拍电影', 'prediction': ('1', '3', '0', '3'), 'info': {'interest': ['阿森纳'], 'level': 1}}
+{'name': '足球新球迷', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 9}}
+{'name': '足球沙皇', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '阿森纳', 'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '纽卡斯尔联', '托特纳姆热刺', '国际米兰', '尤文图斯', '拉齐奥', 'AC米兰', '那不勒斯', '巴塞罗那', '皇家马德里', '拜仁慕尼黑', '波兰(欧洲杯)', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '意大利(欧洲杯)', '乌克兰(欧洲杯)', '英格兰(欧洲杯)'], 'level': 10}}
+{'name': '19550527', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['巴塞罗那'], 'level': 0}}
+{'name': 'apabi666', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['德国(欧洲杯)'], 'level': 4}}
+{'name': 'hialla', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 19}}
+{'name': '无神奇不有', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '马德里竞技', 'premierleague主队': '曼联', 'interest': ['曼联'], 'level': 11}}
+{'name': 'commandery', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['法拉利', '迈凯伦'], 'level': 2}}
+{'name': 'ClayBuddha64', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '瓦伦西亚', 'bundesliga主队': '汉堡', 'premierleague主队': '利物浦', 'seriea主队': '那不勒斯', 'interest': ['利物浦'], 'level': 32}}
+{'name': '天高云扯淡', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'interest': ['阿森纳', '罗马', '皇家马德里', '拜仁慕尼黑'], 'seriea主队': '罗马', 'level': 18}}
+{'name': 'Chenjian7', 'prediction': ('3', '0', '3', '3'), 'info': {'interest': ['AC米兰'], 'seriea主队': 'AC米兰', 'level': 12}}
+{'name': 'fight00', 'prediction': ('3', '0', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳', 'AC米兰', '皇家马德里', '多特蒙德'], 'seriea主队': 'AC米兰', 'level': 27}}
+{'name': '痴迷潘帕斯', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '曼城', 'interest': ['阿森纳', '曼城', '巴塞罗那', '毕尔巴鄂竞技', '拜仁慕尼黑', '多特蒙德', '武汉卓尔', '湖北华凯尔'], 'level': 6}}
+{'name': '楼兰王子', 'prediction': ('3', '3', '3', '0'), 'info': {'interest': ['曼联', '巴塞罗那'], 'level': 1}}
+{'name': 'zlsfleet', 'prediction': ('1', '3', '0', '3'), 'info': {'level': 18}}
+{'name': '卢小四', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['纽约尼克斯', '切尔西', '拉齐奥'], 'seriea主队': '拉齐奥', 'level': 19}}
+{'name': 'graypeterpan', 'prediction': ('3', '0', '0', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '曼城', 'interest': ['曼城', 'AC米兰', '多特蒙德'], 'seriea主队': 'AC米兰', 'level': 6}}
+{'name': 'jzpfv', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['阿森纳', 'AC米兰', '巴塞罗那'], 'level': 10}}
+{'name': 'ps也行', 'prediction': ('0', '3', '0', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['洛杉矶湖人', '阿森纳'], 'level': 8}}
+{'name': '不思翼', 'prediction': ('3', '1', '0', '3'), 'info': {'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '马德里竞技', '瓦伦西亚', '皇家马德里', '赫塔菲', '拜仁慕尼黑', '勒沃库森', '多特蒙德', '沙尔克04', '俄罗斯(欧洲杯)', '德国(欧洲杯)', '乌克兰(欧洲杯)'], 'level': 5}}
+{'name': '尖夯', 'prediction': ('0', '0', '0', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联'], 'level': 25}}
+{'name': '汉阳', 'prediction': ('0', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'seriea主队': '那不勒斯', 'ligue1主队': '里昂', 'interest': ['阿森纳', '巴塞罗那'], 'level': 8}}
+{'name': '白菜帮', 'prediction': ('0', '3', '0', '3'), 'info': {'level': 16}}
+{'name': '怀沙', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['洛杉矶湖人', 'AC米兰', '意大利(欧洲杯)', '乌克兰(欧洲杯)'], 'level': 28}}
+{'name': 'ISCO2012', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['切尔西'], 'level': 6}}
+{'name': 'warning鋒', 'prediction': ('3', '1', '1', '3'), 'info': {'laliga主队': '瓦伦西亚', 'interest': ['尤文图斯', '瓦伦西亚'], 'seriea主队': '尤文图斯', 'level': 35}}
+{'name': 'Mr.Raul', 'prediction': ('3', '0', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'interest': ['切尔西', '皇家马德里', '江苏舜天'], 'level': 12}}
+{'name': '永远的蝙蝠侠', 'prediction': ('3', '3', '1', '3'), 'info': {'ligue1主队': '巴黎圣日耳曼', 'seriea主队': '国际米兰', 'level': 42}}
+{'name': '笨笨巧克力', 'prediction': ('3', '3', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['波士顿凯尔特人', '拜仁慕尼黑', '不莱梅'], 'level': 8}}
+{'name': 'z_w_w', 'prediction': ('3', '1', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '切尔西', 'seriea主队': '国际米兰', 'level': 4}}
+{'name': 'wjb584815598', 'prediction': ('3', '0', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['洛杉矶湖人', '阿森纳', '德国(欧洲杯)'], 'level': 28}}
+{'name': '後防天團', 'prediction': ('3', '1', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '切尔西', 'seriea主队': 'AC米兰', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['纽约尼克斯', '迈阿密热火', '奥兰多魔术', '休斯顿火箭', '洛杉矶快船', '广东华南虎', '浙江万马旋风', '浙江广厦猛狮', '切尔西', '曼城', 'AC米兰', '那不勒斯', '皇家马德里', '拜仁慕尼黑', '巴黎圣日耳曼', '摩纳哥', '广州恒大', '贵州人和', '杭州绿城', '德国(欧洲杯)', '葡萄牙(欧洲杯)'], 'level': 2}}
+{'name': 'ArsenalOzil', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['阿森纳'], 'level': 4}}
+{'name': '行至水穷处', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'seriea主队': '那不勒斯', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['拜仁慕尼黑', '多特蒙德'], 'level': 2}}
+{'name': 'chuangcc', 'prediction': ('0', '1', '3', '3'), 'info': {'interest': ['休斯顿火箭', '阿森纳'], 'level': 10}}
+{'name': '空霸拉姆', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'interest': ['法拉利', '迈凯伦', '红牛', '阿森纳', '利物浦', '曼城', '托特纳姆热刺', '佛罗伦萨', '拉齐奥', 'AC米兰', '霍芬海姆', '拜仁慕尼黑', '沙尔克04', '不莱梅', '科隆'], 'seriea主队': 'AC米兰', 'level': 10}}
+{'name': 'powerjam', 'prediction': ('3', '1', '3', '1'), 'info': {'level': 36}}
+{'name': '暴走教皇', 'prediction': ('0', '3', '0', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['达拉斯小牛', '阿森纳', '尤文图斯', 'AC米兰', '拜仁慕尼黑', '捷克(欧洲杯)', '荷兰(欧洲杯)', '德国(欧洲杯)', '法国(欧洲杯)'], 'level': 26}}
+{'name': '防波亭手寅', 'prediction': ('3', '1', '1', '1'), 'info': {'level': 15}}
+{'name': '支牛Game', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '曼联', 'interest': ['俄克拉荷马城雷霆', '洛杉矶湖人', '曼联', '皇家马德里'], 'level': 29}}
+{'name': 'walshao', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '曼联', 'interest': ['曼联', 'AC米兰', '皇家马德里'], 'seriea主队': 'AC米兰', 'level': 6}}
+{'name': 'Willian.daSilva', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '切尔西', 'level': 17}}
+{'name': '廉成吉', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'interest': ['切尔西', '曼城', '国际米兰', '皇家马德里'], 'seriea主队': '国际米兰', 'level': 15}}
+{'name': 'mzb0050', 'prediction': ('1', '0', '1', '3'), 'info': {'seriea主队': 'AC米兰', 'level': 12}}
+{'name': 'Bearsvision', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['阿森纳', '切尔西', '曼城', '曼联', '国际米兰', '尤文图斯', 'AC米兰', '那不勒斯', '马德里竞技', '巴塞罗那', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '巴黎圣日耳曼', '摩纳哥', '卡迪夫城', '俄罗斯(欧洲杯)', '荷兰(欧洲杯)', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)', '瑞典(欧洲杯)', '法国(欧洲杯)', '英格兰(欧洲杯)'], 'level': 14}}
+{'name': 'wweksim', 'prediction': ('3', '1', '3', '3'), 'info': {'level': 2}}
+{'name': '主教练温格', 'prediction': ('1', '0', '3', '3'), 'info': {'interest': ['阿森纳'], 'level': 1}}
+{'name': '27wuke', 'prediction': ('3', '3', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 37}}
+{'name': '关智斌', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['圣安东尼奥马刺', '洛杉矶湖人', '曼联', '国际米兰', 'AC米兰', '皇家马德里', '拜仁慕尼黑', '意大利(欧洲杯)'], 'level': 40}}
+{'name': '长杨羽猎时', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '瓦伦西亚', 'bundesliga主队': '沙尔克04', 'premierleague主队': '切尔西', 'seriea主队': '尤文图斯', 'ligue1主队': '马赛', 'interest': ['休斯顿火箭', '山东金狮', '尤文图斯'], 'level': 8}}
+{'name': '我比凤姐帅', 'prediction': ('3', '0', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 24}}
+{'name': '大爷的大业', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['AC米兰'], 'level': 35}}
+{'name': '布伦瑞克', 'prediction': ('3', '1', '0', '0'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '曼城', 'interest': ['拜仁慕尼黑'], 'level': 26}}
+{'name': '-Frank_Fu-', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['利物浦'], 'level': 2}}
+{'name': 'begtrue', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'interest': ['阿森纳', '曼城', '皇家马德里'], 'level': 20}}
+{'name': '2chuan1', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['洛杉矶湖人'], 'level': 24}}
+{'name': 'missmyhk', 'prediction': ('1', '1', '3', '3'), 'info': {'interest': ['迈阿密热火', '迈凯伦', '阿森纳', '拉齐奥', '皇家马德里', '拜仁慕尼黑'], 'level': 7}}
+{'name': 'uneverwalkalone', 'prediction': ('0', '3', '0', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['利物浦', '多特蒙德'], 'level': 14}}
+{'name': '老红军', 'prediction': ('0', '1', '0', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '利物浦', 'interest': ['休斯顿火箭', '圣安东尼奥马刺', '青岛雄鹰', '利物浦', 'AC米兰', '天津泰达'], 'seriea主队': 'AC米兰', 'level': 14}}
+{'name': '多特萌的', 'prediction': ('3', '1', '1', '3'), 'info': {'interest': ['多特蒙德'], 'level': 3}}
+{'name': '小黑屋七天', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['阿森纳', '曼城', '马德里竞技', '毕尔巴鄂竞技'], 'level': 10}}
+{'name': 'songningning', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'interest': ['洛杉矶湖人', '巴塞罗那'], 'seriea主队': '国际米兰', 'level': 42}}
+{'name': 'nbzx', 'prediction': ('3', '1', '1', '3'), 'info': {'interest': ['阿森纳', '切尔西', '尤文图斯', '拜仁慕尼黑', '勒沃库森', '德国(欧洲杯)'], 'level': 7}}
+{'name': '姚百万', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['切尔西', '国际米兰', '江苏舜天'], 'level': 8}}
+{'name': '镜头擦拭纸', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '曼联', 'interest': ['波士顿凯尔特人', '纽约尼克斯', '孟菲斯灰熊', '丹佛掘金', '俄克拉荷马城雷霆', '法拉利', '曼联', '国际米兰', '皇家马德里', '意大利(欧洲杯)'], 'seriea主队': '国际米兰', 'level': 47}}
+{'name': 'Alfie.W', 'prediction': ('3', '1', '3', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['芝加哥公牛', '迈阿密热火', '洛杉矶快船', '洛杉矶湖人', '索伯', '切尔西', '德国(欧洲杯)', '深圳红钻'], 'level': 7}}
+{'name': 'DanieLiu', 'prediction': ('1', '1', '3', '3'), 'info': {'interest': ['切尔西'], 'level': 1}}
+{'name': '李臣一', 'prediction': ('0', '3', '1', '3'), 'info': {'level': 5}}
+{'name': 'sihai123', 'prediction': ('1', '3', '0', '3'), 'info': {'level': 2}}
+{'name': '费尔南德', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '门兴格拉德巴赫', 'premierleague主队': '利物浦', 'seriea主队': 'AC米兰', 'ligue1主队': '里尔', 'interest': ['阿森纳', '利物浦', '纽卡斯尔联', 'AC米兰', '皇家马德里', '多特蒙德', '门兴格拉德巴赫', '西班牙(欧洲杯)', '英格兰(欧洲杯)'], 'level': 16}}
+{'name': 'junjie6169', 'prediction': ('1', '3', '0', '3'), 'info': {'interest': ['洛杉矶快船', '红牛', '阿森纳', '利物浦', '曼联', '皇家马德里', '西班牙(欧洲杯)'], 'level': 2}}
+{'name': 'jocunArsenal', 'prediction': ('0', '3', '1', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'interest': ['阿森纳', '切尔西', '利物浦', '曼联', '德国(欧洲杯)', '西班牙(欧洲杯)'], 'seriea主队': 'AC米兰', 'level': 8}}
+{'name': '南看台某人', 'prediction': ('3', '1', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['洛杉矶湖人', 'AC米兰', '皇家马德里'], 'seriea主队': 'AC米兰', 'level': 16}}
+{'name': '小艾love', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['迈阿密热火', '广东华南虎'], 'level': 15}}
+{'name': '主教练勒夫', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['德国(欧洲杯)'], 'level': 25}}
+{'name': '竹独松', 'prediction': ('3', '0', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['洛杉矶湖人', '切尔西'], 'level': 21}}
+{'name': 'ybsjgs', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 27}}
+{'name': '苑大人', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['俄克拉荷马城雷霆', '切尔西', '皇家马德里'], 'level': 1}}
+{'name': 'Yann__MVila', 'prediction': ('3', '1', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'seriea主队': 'AC米兰', 'interest': ['达拉斯小牛', '菲尼克斯太阳', '迈凯伦', '阿森纳', '皇家马德里'], 'level': 15}}
+{'name': 'camelye', 'prediction': ('3', '1', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑', '沙尔克04'], 'level': 25}}
+{'name': 'thecsc', 'prediction': ('1', '3', '0', '3'), 'info': {'laliga主队': '马德里竞技', 'bundesliga主队': '多特蒙德', 'premierleague主队': '托特纳姆热刺', 'seriea主队': '罗马', 'ligue1主队': '马赛', 'interest': ['布鲁克林篮网', '芝加哥公牛', '休斯顿火箭', '孟菲斯灰熊', '圣安东尼奥马刺', '丹佛掘金', '俄克拉荷马城雷霆', '洛杉矶快船', '法拉利', '雷诺', '切尔西', '利物浦', '曼联', '纽卡斯尔联', '托特纳姆热刺', '国际米兰', '尤文图斯', '那不勒斯', '马德里竞技', '瓦伦西亚', '比利亚雷亚尔', '毕尔巴鄂竞技', '梅塞德斯-奔驰', '波兰(欧洲杯)', '俄罗斯(欧洲杯)', '捷克(欧洲杯)', '德国(欧洲杯)', '乌克兰(欧洲杯)'], 'level': 21}}
+{'name': 'wei880609', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['利物浦'], 'level': 13}}
+{'name': 'mu1999', 'prediction': ('1', '1', '0', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联'], 'level': 20}}
+{'name': '相信梅西', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['巴塞罗那'], 'level': 17}}
+{'name': '夜色渐浓', 'prediction': ('3', '3', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 13}}
+{'name': '忠义格策', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['多特蒙德'], 'level': 8}}
+{'name': '浅雪吟酌', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '纽卡斯尔联', '托特纳姆热刺', '佛罗伦萨', '国际米兰', '尤文图斯', '拉齐奥', 'AC米兰', '那不勒斯', '罗马', '都灵', '马德里竞技', '塞维利亚', '瓦伦西亚', '皇家马德里', '比利亚雷亚尔', '拉科鲁尼亚', '马拉加', '赫塔菲', '毕尔巴鄂竞技', '皇家贝蒂斯', '桑坦德竞技', '西班牙人', '拜仁慕尼黑', '汉堡', '多特蒙德', '沙尔克04', '不莱梅', '法兰克福', '荷兰(欧洲杯)', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)', '克罗地亚(欧洲杯)', '瑞典(欧洲杯)', '法国(欧洲杯)', '英格兰(欧洲杯)'], 'level': 6}}
+{'name': 'Abu-Nazir', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 1}}
+{'name': '大和田常务', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西'], 'level': 3}}
+{'name': '倦鸟归时回', 'prediction': ('0', '1', '0', '3'), 'info': {'bundesliga主队': '多特蒙德', 'interest': ['多特蒙德'], 'level': 6}}
+{'name': 'FrankUnderwood', 'prediction': ('0', '3', '0', '1'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联'], 'level': 3}}
+{'name': 'meizuer', 'prediction': ('0', '0', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['广东华南虎', '阿森纳', '切尔西', '利物浦', '曼城', '波兰(欧洲杯)', '乌克兰(欧洲杯)'], 'level': 16}}
+{'name': 'redssss', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '比利亚雷亚尔', 'interest': ['洛杉矶湖人', '佛罗伦萨', '比利亚雷亚尔', '上海申花', '上海东亚'], 'seriea主队': '佛罗伦萨', 'level': 9}}
+{'name': '马上看马', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 3}}
+{'name': '进击D青草', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['佛罗伦萨', '那不勒斯', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '沙尔克04', '杭州绿城'], 'level': 24}}
+{'name': 'sesehx', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '国际米兰', '尤文图斯', '拉齐奥', '马德里竞技', '巴塞罗那', '塞维利亚', '皇家马德里', '马拉加', '拜仁慕尼黑', '汉堡', '勒沃库森', '多特蒙德', '沙尔克04', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)', '法国(欧洲杯)', '英格兰(欧洲杯)'], 'level': 7}}
+{'name': '昼行灯', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西', '曼城', '托特纳姆热刺', '国际米兰', '尤文图斯', '皇家马德里', '天津泰达', '意大利(欧洲杯)'], 'level': 18}}
+{'name': 'zntempest', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['阿森纳', '切尔西', '利物浦', '罗马'], 'level': 4}}
+{'name': '无名狗熊', 'prediction': ('0', '1', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'premierleague主队': '阿森纳', 'interest': ['阿森纳', '巴塞罗那', '山东鲁能', '西班牙(欧洲杯)'], 'level': 7}}
+{'name': 'luozhun', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 2}}
+{'name': 'Joy7', 'prediction': ('1', '3', '0', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联'], 'level': 5}}
+{'name': '迷彩啄木鸟', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['波士顿凯尔特人'], 'level': 19}}
+{'name': 'MiaSanMia`', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 2}}
+{'name': '百胜哥', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 1}}
+{'name': '圣西罗卡子', 'prediction': ('3', '1', '3', '1'), 'info': {'interest': ['AC米兰'], 'level': 1}}
+{'name': '季昶', 'prediction': ('3', '3', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '曼城', 'interest': ['休斯顿火箭', '拜仁慕尼黑'], 'level': 60}}
+{'name': 'fansclub', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳', '皇家马德里'], 'level': 8}}
+{'name': 'beiyingxue', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西'], 'level': 35}}
+{'name': 'hunterl1', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 4}}
+{'name': '潮王路18号', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['波士顿凯尔特人'], 'seriea主队': 'AC米兰', 'level': 13}}
+{'name': 'Kaepernick_7', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '阿斯顿维拉', 'interest': ['明尼苏达森林狼', '金州勇士', '法拉利', '阿斯顿维拉', '曼城', '尤文图斯', '巴塞罗那', '多特蒙德', '摩纳哥'], 'level': 5}}
+{'name': '京典', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '曼城', 'interest': ['迈阿密热火', '巴塞罗那', '拜仁慕尼黑', '广州恒大', '德国(欧洲杯)', '西班牙(欧洲杯)'], 'level': 23}}
+{'name': '叫我崔小壮', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['俄克拉荷马城雷霆', '法拉利', '曼联', 'AC米兰', '皇家马德里', '西班牙(欧洲杯)'], 'level': 6}}
+{'name': 'Joe_Kwan', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['底特律活塞', '洛杉矶湖人', '尤文图斯'], 'seriea主队': '尤文图斯', 'level': 31}}
+{'name': 'wehappy', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '阿森纳', 'interest': ['芝加哥公牛', '克利夫兰骑士', '印第安纳步行者', '佛罗伦萨', '马德里竞技', '拜仁慕尼黑'], 'level': 16}}
+{'name': 'ktn10001', 'prediction': ('0', '1', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 11}}
+{'name': '岁月随心KK', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['菲尼克斯太阳', '法拉利', '阿森纳', '利物浦', '曼城', '曼联', '皇家马德里', '拜仁慕尼黑'], 'level': 12}}
+{'name': '旧言虐心_', 'prediction': ('0', '3', '0', '3'), 'info': {'level': 1}}
+{'name': 'zhtt0206', 'prediction': ('1', '3', '0', '3'), 'info': {'interest': ['休斯顿火箭', '洛杉矶湖人', '北京鸭', '切尔西'], 'level': 7}}
+{'name': '一直在睡觉', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['法拉利', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 13}}
+{'name': '红军上帝', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['利物浦', '意大利(欧洲杯)', '英格兰(欧洲杯)', '河南建业'], 'level': 5}}
+{'name': 'fghrthr', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['阿森纳', '曼城', '巴塞罗那', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '沙尔克04', '沃尔夫斯堡', '德国(欧洲杯)'], 'level': 3}}
+{'name': '目田社会', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['巴塞罗那'], 'level': 35}}
+{'name': 'semler_cn', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 20}}
+{'name': '一直在睡觉14', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['法拉利', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 13}}
+{'name': 'mufm112', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['法拉利', '切尔西', 'AC米兰', '罗马', '皇家马德里', '多特蒙德', '德国(欧洲杯)', '意大利(欧洲杯)'], 'level': 2}}
+{'name': 'e17359', 'prediction': ('0', '3', '0', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳', '利物浦'], 'level': 15}}
+{'name': '蒂莫韦尔纳', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['德国(欧洲杯)'], 'level': 34}}
+{'name': '为秀年轻', 'prediction': ('3', '3', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'level': 13}}
+{'name': 'lampardrobben', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['法拉利', '切尔西', '辽宁宏运'], 'level': 6}}
+{'name': 'zwk2005', 'prediction': ('3', '3', '0', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '托特纳姆热刺', 'interest': ['曼城', '托特纳姆热刺', '多特蒙德'], 'level': 14}}
+{'name': 'zhy32155', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['迈阿密热火'], 'level': 17}}
+{'name': 'tadaobusier', 'prediction': ('1', '3', '1', '3'), 'info': {'level': 17}}
+{'name': '讴歌莫拉塔', 'prediction': ('1', '3', '1', '3'), 'info': {'laliga主队': '巴塞罗那', 'interest': ['马德里竞技'], 'level': 46}}
+{'name': '千古轮回', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 8}}
+{'name': 'mcyan520', 'prediction': ('3', '1', '0', '3'), 'info': {'level': 6}}
+{'name': '表哥欠我400', 'prediction': ('3', '0', '1', '3'), 'info': {'laliga主队': '巴塞罗那', 'premierleague主队': '阿森纳', 'seriea主队': 'AC米兰', 'level': 15}}
+{'name': 'spippo', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['巴塞罗那'], 'level': 9}}
+{'name': 'inzaghi1001', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['洛杉矶湖人', '浙江万马旋风', '国际米兰', 'AC米兰'], 'level': 8}}
+{'name': '光寒三百州', 'prediction': ('3', '1', '1', '3'), 'info': {'interest': ['拜仁慕尼黑', '多特蒙德', '荷兰(欧洲杯)', '德国(欧洲杯)'], 'level': 1}}
+{'name': 'Criska27', 'prediction': ('3', '1', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '曼联', 'interest': ['曼联', '皇家马德里', '葡萄牙(欧洲杯)'], 'level': 3}}
+{'name': '飕飕飕飕舞', 'prediction': ('3', '0', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑', '多特蒙德', '北京国安', '德国(欧洲杯)'], 'level': 17}}
+{'name': '52272', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 10}}
+{'name': '我偏不治疗', 'prediction': ('0', '0', '0', '3'), 'info': {'level': 6}}
+{'name': '真MADAO', 'prediction': ('3', '1', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['休斯顿火箭', '阿森纳'], 'seriea主队': 'AC米兰', 'level': 21}}
+{'name': 'Ayumu_2000', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['上海申花'], 'level': 21}}
+{'name': 'dongqiu18', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '曼联', 'level': 11}}
+{'name': '韦秋蜜', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 4}}
+{'name': '韦秋蜜18', 'prediction': ('3', '1', '1', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 4}}
+{'name': '死亡聚头', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['纽卡斯尔联', '马德里竞技', '拜仁慕尼黑', '江苏舜天'], 'level': 11}}
+{'name': '饭真香', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'premierleague主队': '利物浦', 'interest': ['利物浦', 'AC米兰', '巴塞罗那', '西班牙(欧洲杯)'], 'seriea主队': 'AC米兰', 'level': 6}}
+{'name': '白玫瑰鞋坊', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '瓦伦西亚', 'interest': ['明尼苏达森林狼', '国际米兰', '瓦伦西亚'], 'seriea主队': '国际米兰', 'level': 20}}
+{'name': 'PA_killer', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 9}}
+{'name': '铁神杜烂铁', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '曼联', 'seriea主队': 'AC米兰', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['俄克拉荷马城雷霆', '上海大鲨鱼', '曼联', '皇家马德里', '多特蒙德', '上海申花', '英格兰(欧洲杯)'], 'level': 4}}
+{'name': 'matsuirena', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['洛杉矶湖人', '曼联'], 'level': 13}}
+{'name': '雨中男孩', 'prediction': ('0', '1', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['皇家马德里', '葡萄牙(欧洲杯)', '意大利(欧洲杯)'], 'level': 14}}
+{'name': '风蚀人', 'prediction': ('3', '0', '3', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联'], 'seriea主队': '罗马', 'level': 17}}
+{'name': 'qwqw31855', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['芝加哥公牛', '霍芬海姆'], 'seriea主队': 'AC米兰', 'level': 23}}
+{'name': '深深的思考', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['明尼苏达森林狼', '切尔西', '德国(欧洲杯)'], 'level': 6}}
+{'name': 'kHRYSTAL_29', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '汉堡', 'premierleague主队': '阿森纳', 'interest': ['阿森纳', '汉堡'], 'level': 6}}
+{'name': '翼手龙', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '多特蒙德', 'interest': ['拜仁慕尼黑', '多特蒙德', '不莱梅', '德国(欧洲杯)'], 'level': 15}}
+{'name': '乔彝鸶', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 0}}
+{'name': 'hellosummer_Li', 'prediction': ('3', '0', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['门兴格拉德巴赫'], 'level': 31}}
+{'name': 'lm14824001', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['迈阿密热火'], 'level': 5}}
+{'name': '百度百发', 'prediction': ('3', '1', '1', '3'), 'info': {'level': 5}}
+{'name': '穆勒贝勒爷', 'prediction': ('3', '1', '0', '3'), 'info': {'level': 1}}
+{'name': '阿什利楊', 'prediction': ('0', '3', '0', '3'), 'info': {'bundesliga主队': '奥格斯堡', 'premierleague主队': '曼联', 'seriea主队': '切沃', 'ligue1主队': '圣埃蒂安', 'interest': ['曼联'], 'level': 30}}
+{'name': '米兰国际', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['国际米兰', 'AC米兰'], 'level': 5}}
+{'name': '大万1892', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '勒沃库森', 'premierleague主队': '利物浦', 'interest': ['勒沃库森'], 'level': 9}}
+{'name': 'fanarsenal', 'prediction': ('0', '0', '0', '3'), 'info': {'interest': ['阿森纳'], 'level': 4}}
+{'name': 'E-born', 'prediction': ('3', '3', '1', '3'), 'info': {'level': 2}}
+{'name': 'LOGOZHANG', 'prediction': ('3', '1', '0', '3'), 'info': {'laliga主队': '毕尔巴鄂竞技', 'bundesliga主队': '沃尔夫斯堡', 'premierleague主队': '利物浦', 'seriea主队': '尤文图斯', 'level': 13}}
+{'name': 'sjzzh2004', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['迈阿密热火', '丹佛掘金', '波特兰开拓者', '洛杉矶快船', '洛杉矶湖人', '法拉利', '利物浦', '托特纳姆热刺', '皇家马德里', '多特蒙德'], 'level': 24}}
+{'name': '曾是惊鸿', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['切尔西', '曼城'], 'level': 4}}
+{'name': 'O_o忠', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['休斯顿火箭', '曼联'], 'level': 21}}
+{'name': '雷贝拉唑', 'prediction': ('1', '0', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'seriea主队': 'AC米兰', 'interest': ['阿森纳', 'AC米兰', '皇家马德里', '多特蒙德', '荷兰(欧洲杯)'], 'level': 6}}
+{'name': 'chenbingbcb', 'prediction': ('3', '3', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑', '勒沃库森', '多特蒙德', '沙尔克04', '德国(欧洲杯)'], 'level': 4}}
+{'name': 'fufjvnvnf', 'prediction': ('3', '3', '1', '3'), 'info': {'bundesliga主队': '沙尔克04', 'premierleague主队': '切尔西', 'ligue1主队': '里尔', 'interest': ['切尔西', '纽卡斯尔联', '多特蒙德'], 'level': 17}}
+{'name': '_此情不待_', 'prediction': ('1', '3', '0', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 5}}
+{'name': '潇挽歌', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['洛杉矶湖人', '切尔西'], 'level': 22}}
+{'name': '天生我才啊', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 3}}
+{'name': 'stuinnju', 'prediction': ('0', '0', '0', '3'), 'info': {'bundesliga主队': '不莱梅', 'premierleague主队': '阿森纳', 'seriea主队': '国际米兰', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['阿森纳'], 'level': 15}}
+{'name': 'elfosangelce', 'prediction': ('0', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'interest': ['巴塞罗那', '贵州人和', '西班牙(欧洲杯)'], 'level': 23}}
+{'name': '美凌格87', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '沙尔克04', 'premierleague主队': '切尔西', 'seriea主队': '那不勒斯', 'interest': ['皇家马德里'], 'level': 7}}
+{'name': '只喝可乐', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['波士顿凯尔特人', '休斯顿火箭', '达拉斯小牛', '圣安东尼奥马刺', '丹佛掘金', '犹他爵士', '金州勇士', '菲尼克斯太阳', '阿森纳'], 'level': 33}}
+{'name': 'werderpk', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['波士顿凯尔特人', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 29}}
+{'name': 'Mr_Sunk', 'prediction': ('3', '0', '0', '3'), 'info': {'level': 2}}
+{'name': '红日lyy', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['芝加哥公牛', '迈阿密热火', '阿森纳', '利物浦'], 'level': 2}}
+{'name': '最近有点神', 'prediction': ('0', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 6}}
+{'name': 'Tsar-岬太郎', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '沙尔克04', 'premierleague主队': '阿森纳', 'seriea主队': '国际米兰', 'ligue1主队': '里昂', 'interest': ['洛杉矶湖人', '阿森纳'], 'level': 5}}
+{'name': '爷爷的姐姐', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['皇家马德里'], 'level': 4}}
+{'name': '时代本意', 'prediction': ('0', '1', '0', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['埃弗顿', '曼联', '多特蒙德'], 'level': 16}}
+{'name': '利特曼宁', 'prediction': ('3', '3', '3', '3'), 'info': {'seriea主队': '国际米兰', 'level': 10}}
+{'name': '老虎大官人', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['法拉利', '尤文图斯', '意大利(欧洲杯)'], 'seriea主队': '尤文图斯', 'level': 8}}
+{'name': '卡夫不卡', 'prediction': ('3', '1', '3', '1'), 'info': {'interest': ['利物浦'], 'level': 5}}
+{'name': '叶哈雅', 'prediction': ('1', '3', '3', '3'), 'info': {'interest': ['波特兰开拓者', '曼城'], 'level': 2}}
+{'name': '有点坑', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 5}}
+{'name': 'Levey1811', 'prediction': ('0', '0', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西'], 'level': 5}}
+{'name': '小小刀夕', 'prediction': ('3', '1', '1', '3'), 'info': {'level': 2}}
+{'name': '莞然独笑', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['巴塞罗那'], 'level': 22}}
+{'name': '西罗西', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 0}}
+{'name': 'fgevgah', 'prediction': ('0', '0', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '沃尔夫斯堡', 'premierleague主队': '切尔西', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '纽卡斯尔联', '佛罗伦萨', '热那亚', 'AC米兰', '皇家马德里', '拜仁慕尼黑', '汉堡', '沙尔克04', '不莱梅', '沃尔夫斯堡', '里昂', '波尔多', '马赛'], 'level': 2}}
+{'name': '道亦盗', 'prediction': ('0', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳', '利物浦'], 'level': 17}}
+{'name': '小破仁威武', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['曼联', 'AC米兰', '皇家马德里', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 5}}
+{'name': 'pearlzhb', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'level': 6}}
+{'name': '跪舔董秋梅', 'prediction': ('0', '0', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 18}}
+{'name': '中立伪球迷', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['山东金狮', '山东鲁能'], 'level': 22}}
+{'name': 'Raul4ever', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['尤文图斯'], 'level': 5}}
+{'name': 'N_記', 'prediction': ('1', '1', '1', '3'), 'info': {'interest': ['托特纳姆热刺', 'AC米兰', '荷兰(欧洲杯)', '乌克兰(欧洲杯)', '瑞典(欧洲杯)'], 'level': 11}}
+{'name': '我跑你别追', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 17}}
+{'name': 'tifosi_xp', 'prediction': ('0', '0', '0', '0'), 'info': {'interest': ['纽约尼克斯', '迈阿密热火', '休斯顿火箭', '俄克拉荷马城雷霆', '洛杉矶快船', '洛杉矶湖人', '广东华南虎', '江苏龙', '法拉利', '迈凯伦', '莲花', '阿森纳', '切尔西', '利物浦', '曼城', '曼联', '国际米兰', '尤文图斯', '拉齐奥', 'AC米兰', '那不勒斯', '罗马', '巴塞罗那', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '里昂', '巴黎圣日耳曼', '梅塞德斯-奔驰', '荷兰(欧洲杯)', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)', '克罗地亚(欧洲杯)', '法国(欧洲杯)', '英格兰(欧洲杯)'], 'level': 2}}
+{'name': 'illian', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['皇家马德里'], 'level': 5}}
+{'name': '让我们浮夸', 'prediction': ('3', '1', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '曼城', 'seriea主队': 'AC米兰', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['切尔西', '曼城', '尤文图斯', 'AC米兰', '那不勒斯', '巴塞罗那', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '巴黎圣日耳曼', '摩纳哥'], 'level': 4}}
+{'name': '玫瑰飞人', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['迈阿密热火'], 'level': 11}}
+{'name': '老狗咪咪', 'prediction': ('1', '1', '1', '3'), 'info': {'level': 3}}
+{'name': 'CameraBuff', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['切尔西'], 'level': 21}}
+{'name': 'D.Edward', 'prediction': ('0', '0', '0', '3'), 'info': {'laliga主队': '马德里竞技', 'bundesliga主队': '沙尔克04', 'premierleague主队': '曼联', 'interest': ['阿森纳', '利物浦', '曼联', '国际米兰', '拉齐奥', 'AC米兰', '那不勒斯'], 'level': 15}}
+{'name': 'chengjieqi', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑', '德国(欧洲杯)'], 'level': 3}}
+{'name': '满月诗篇', 'prediction': ('3', '1', '0', '3'), 'info': {'interest': ['阿森纳', '利物浦', '曼城', '曼联', '马德里竞技', '巴塞罗那', '瓦伦西亚', '皇家马德里'], 'level': 27}}
+{'name': 'fengfengdady', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['曼联'], 'level': 19}}
+{'name': '奥利维吉鲁', 'prediction': ('0', '3', '0', '3'), 'info': {'premierleague主队': '曼城', 'ligue1主队': '蒙彼利埃', 'interest': ['曼城'], 'level': 23}}
+{'name': '0911hero', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '多特蒙德', 'premierleague主队': '曼城', 'seriea主队': '国际米兰', 'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '国际米兰', '尤文图斯', 'AC米兰', '巴塞罗那', '皇家马德里'], 'level': 15}}
+{'name': 'hicaiyang', 'prediction': ('3', '0', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['国际米兰'], 'seriea主队': '国际米兰', 'level': 12}}
+{'name': '草根分队XY', 'prediction': ('0', '1', '0', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 10}}
+{'name': '梅毒驴子', 'prediction': ('1', '3', '0', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['阿森纳', '曼联'], 'level': 10}}
+{'name': 'guoguo198181', 'prediction': ('3', '3', '3', '0'), 'info': {'level': 0}}
+{'name': '念水007', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 2}}
+{'name': 'ThebirdCaniggia', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '比利亚雷亚尔', 'premierleague主队': '阿森纳', 'interest': ['纽卡斯尔联', '罗马', '塞维利亚', '沙尔克04', '门兴格拉德巴赫', '荷兰(欧洲杯)', '法国(欧洲杯)'], 'level': 29}}
+{'name': 'netelf', 'prediction': ('3', '0', '0', '1'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '纽卡斯尔联', 'interest': ['拜仁慕尼黑', '多特蒙德', '德国(欧洲杯)'], 'level': 50}}
+{'name': '曾经已陌生', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'premierleague主队': '埃弗顿', 'interest': ['阿森纳', '巴塞罗那'], 'level': 34}}
+{'name': '七仟万', 'prediction': ('3', '3', '1', '1'), 'info': {'interest': ['洛杉矶湖人', '阿森纳', '德国(欧洲杯)'], 'level': 6}}
+{'name': 'gdcc0099', 'prediction': ('1', '1', '0', '1'), 'info': {'laliga主队': '巴塞罗那', 'premierleague主队': '曼联', 'interest': ['圣安东尼奥马刺', '洛杉矶湖人', '曼联', '巴塞罗那'], 'level': 15}}
+{'name': 'anczwer', 'prediction': ('0', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'seriea主队': '拉齐奥', 'interest': ['迈阿密热火', '休斯顿火箭', '洛杉矶湖人', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 36}}
+{'name': 'casablancangel', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['洛杉矶湖人', '意大利(欧洲杯)'], 'seriea主队': 'AC米兰', 'level': 60}}
+{'name': 'DDr007', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '曼联', 'interest': ['曼联', '皇家马德里'], 'level': 0}}
+{'name': '蛋蛋的疼', 'prediction': ('1', '1', '3', '3'), 'info': {'level': 0}}
+{'name': 'GQ是好人', 'prediction': ('3', '3', '1', '3'), 'info': {'level': 1}}
+{'name': '弥止', 'prediction': ('3', '3', '1', '3'), 'info': {'level': 0}}
+{'name': 'hokimfong', 'prediction': ('3', '3', '3', '1'), 'info': {'premierleague主队': '曼联', 'interest': ['法拉利', '曼联', '英格兰(欧洲杯)'], 'level': 2}}
+{'name': 'Michael.Stewart', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联'], 'level': 11}}
+{'name': 'greatbarca', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['纽约尼克斯', '阿森纳', '巴塞罗那'], 'level': 5}}
+{'name': '猪酥酥', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 23}}
+{'name': 'Jamie_Liu', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['俄克拉荷马城雷霆', '金州勇士', '洛杉矶快船', '法拉利', '迈凯伦', '红牛', '阿森纳', '切尔西', '利物浦', '曼城', '曼联', '拜仁慕尼黑', '多特蒙德', '沙尔克04', '广州恒大', '北京国安', '上海申花', '德国(欧洲杯)', '西班牙(欧洲杯)', '英格兰(欧洲杯)'], 'level': 1}}
+{'name': '4-2-3-1', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['布鲁克林篮网', '圣安东尼奥马刺', '俄克拉荷马城雷霆', '洛杉矶湖人', '拜仁慕尼黑'], 'level': 1}}
+{'name': '升班马', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 0}}
+{'name': 'leite-r-kaka', 'prediction': ('3', '0', '1', '3'), 'info': {'interest': ['波士顿凯尔特人', '芝加哥公牛', '洛杉矶湖人', '阿森纳', '切尔西', '利物浦', '曼城', '曼联', '托特纳姆热刺', 'AC米兰', '马德里竞技', '巴塞罗那', '皇家马德里', '拜仁慕尼黑', '勒沃库森', '多特蒙德', '沙尔克04', '巴黎圣日耳曼', '广州恒大', '北京国安', '波兰(欧洲杯)', '俄罗斯(欧洲杯)', '荷兰(欧洲杯)', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)', '法国(欧洲杯)', '英格兰(欧洲杯)', '北京理工', '北京八喜'], 'level': 1}}
+{'name': 'coraline', 'prediction': ('3', '1', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '利物浦', 'seriea主队': '那不勒斯', 'interest': ['迈阿密热火', '菲尼克斯太阳', '江苏龙', '利物浦', '尤文图斯', '那不勒斯', '皇家马德里', '广州恒大', '江苏舜天', '北京国安', '山东鲁能', '上海东亚'], 'level': 54}}
+{'name': '李明空的', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '多特蒙德', 'interest': ['曼城', '巴塞罗那', '多特蒙德', '德国(欧洲杯)', '西班牙(欧洲杯)'], 'level': 7}}
+{'name': 'rm3rm3', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '切尔西', 'seriea主队': '那不勒斯', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['皇家马德里'], 'level': 26}}
+{'name': '太子要登基', 'prediction': ('0', '0', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '利物浦', 'interest': ['阿森纳', '利物浦', '皇家马德里', '英格兰(欧洲杯)'], 'level': 14}}
+{'name': '美如如花', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '沙尔克04', 'premierleague主队': '斯旺西', 'seriea主队': '罗马', 'ligue1主队': '蒙彼利埃', 'interest': ['法拉利', '皇家马德里'], 'level': 11}}
+{'name': '听人说CR7独', 'prediction': ('0', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'interest': ['广东华南虎', '阿森纳', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '广州恒大', '德国(欧洲杯)', '葡萄牙(欧洲杯)'], 'level': 3}}
+{'name': '普世主义', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西'], 'level': 6}}
+{'name': '邓尚武', 'prediction': ('3', '1', '1', '3'), 'info': {'interest': ['AC米兰'], 'level': 5}}
+{'name': 'georgekillyou', 'prediction': ('0', '0', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['法拉利', '切尔西'], 'level': 5}}
+{'name': '济安', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['阿森纳', '曼联', '多特蒙德', '广州恒大', '北京国安', '天津泰达', '德国(欧洲杯)', '西班牙(欧洲杯)'], 'level': 8}}
+{'name': '哼呵哈嘿哈', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'interest': ['休斯顿火箭', '阿森纳', '切尔西', '利物浦', '国际米兰', '皇家马德里', '拜仁慕尼黑', '武汉卓尔', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '西班牙(欧洲杯)'], 'level': 15}}
+{'name': 'smileknight80', 'prediction': ('3', '1', '0', '3'), 'info': {'interest': ['阿森纳', 'AC米兰', '巴塞罗那', '皇家马德里'], 'level': 18}}
+{'name': '有球看就好', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['迈阿密热火', '切尔西', '曼联'], 'level': 7}}
+{'name': 'langtou2006', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['洛杉矶湖人', '拉齐奥', '拉科鲁尼亚'], 'seriea主队': '拉齐奥', 'level': 24}}
+{'name': 'romeshepherd', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['利物浦', '罗马', '巴塞罗那', '长春亚泰'], 'level': 26}}
+{'name': '法尔Goal.', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '多特蒙德', 'ligue1主队': '摩纳哥', 'interest': ['曼城', '曼联', '马德里竞技', '巴塞罗那', '拜仁慕尼黑', '西班牙(欧洲杯)'], 'level': 18}}
+{'name': 'clmrose18', 'prediction': ('0', '0', '0', '1'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'seriea主队': 'AC米兰', 'interest': ['波士顿凯尔特人', '金州勇士', '洛杉矶快船', '洛杉矶湖人', '阿森纳'], 'level': 13}}
+{'name': 'dqhjy', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['国际米兰', '拜仁慕尼黑', '瑞典(欧洲杯)'], 'level': 4}}
+{'name': '蓝色蹇', 'prediction': ('1', '3', '0', '3'), 'info': {'interest': ['切尔西'], 'level': 7}}
+{'name': '颜色王菲', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西', 'AC米兰'], 'level': 34}}
+{'name': 'jeetkun', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['芝加哥公牛', '达拉斯小牛', '俄克拉荷马城雷霆', '洛杉矶湖人', '法拉利', '迈凯伦', '阿森纳', '切尔西', '利物浦', '曼联', '托特纳姆热刺', '拜仁慕尼黑', '汉堡', '勒沃库森', '多特蒙德', '沙尔克04', '不莱梅', '斯图加特'], 'level': 19}}
+{'name': 'zhuzhu59', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 1}}
+{'name': '抢手货', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'level': 7}}
+{'name': 'L_larry', 'prediction': ('3', '0', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'interest': ['波士顿凯尔特人', '圣安东尼奥马刺'], 'level': 12}}
+{'name': 'Pseudo-Feynman', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['法拉利'], 'level': 7}}
+{'name': 'chocochoco', 'prediction': ('0', '3', '1', '3'), 'info': {'interest': ['利物浦'], 'level': 1}}
+{'name': 'pinkpuffpig', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '拜仁慕尼黑', 'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '国际米兰', '尤文图斯', 'AC米兰', '那不勒斯', '罗马', '巴塞罗那', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '广州恒大', '上海申花', '上海东亚', '德国(欧洲杯)', '意大利(欧洲杯)'], 'seriea主队': '国际米兰', 'level': 7}}
+{'name': '机智的里皮', 'prediction': ('3', '1', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '多特蒙德', 'premierleague主队': '曼联', 'interest': ['广州恒大'], 'level': 2}}
+{'name': '范范范将军', 'prediction': ('3', '1', '0', '3'), 'info': {'interest': ['曼联'], 'level': 2}}
+{'name': '马戏团A', 'prediction': ('1', '3', '3', '3'), 'info': {'level': 16}}
+{'name': '梅西罗', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 9}}
+{'name': 'bayernados', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 10}}
+{'name': '霞微若苏', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 6}}
+{'name': '条顿骑士', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 0}}
+{'name': 'twt5ps', 'prediction': ('3', '0', '1', '3'), 'info': {'laliga主队': '巴塞罗那', 'premierleague主队': '曼联', 'interest': ['曼联'], 'seriea主队': '尤文图斯', 'level': 7}}
+{'name': '彳亍孑孓', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['达拉斯小牛', '洛杉矶湖人', '托特纳姆热刺', '拉齐奥'], 'level': 8}}
+{'name': '宁前道', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '阿森纳', 'interest': ['休斯顿火箭', '达拉斯小牛', '阿森纳', '皇家马德里'], 'seriea主队': '罗马', 'level': 2}}
+{'name': '73新百伦', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['迈阿密热火', '休斯顿火箭', '波特兰开拓者', '洛杉矶快船', '切尔西', '国际米兰', '尤文图斯', 'AC米兰', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '沙尔克04'], 'level': 0}}
+{'name': 'SlayerJ', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['芝加哥公牛', '洛杉矶湖人', '曼联', '皇家马德里', '拜仁慕尼黑'], 'level': 29}}
+{'name': '王就一个字', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['切尔西'], 'level': 7}}
+{'name': '球王斯特林', 'prediction': ('3', '1', '1', '3'), 'info': {'level': 1}}
+{'name': '最强之人', 'prediction': ('3', '1', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '阿森纳', 'interest': ['阿森纳', 'AC米兰', '广州恒大'], 'seriea主队': 'AC米兰', 'level': 5}}
+{'name': 'tiochenko', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['AC米兰'], 'seriea主队': 'AC米兰', 'level': 9}}
+{'name': '因蓝而蓝', 'prediction': ('0', '1', '1', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西'], 'level': 3}}
+{'name': '光头维亚利', 'prediction': ('3', '1', '1', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西', '尤文图斯', '桑普多利亚'], 'level': 21}}
+{'name': '严培晟', 'prediction': ('1', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '阿森纳', 'interest': ['洛杉矶湖人', '阿森纳'], 'level': 6}}
+{'name': '绝对牛奶', 'prediction': ('3', '1', '0', '3'), 'info': {'level': 12}}
+{'name': '永远272', 'prediction': ('3', '0', '3', '3'), 'info': {'interest': ['皇家马德里'], 'level': 4}}
+{'name': 'chenghaiying', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['阿森纳', 'AC米兰', '皇家马德里', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 2}}
+{'name': 'c放逐', 'prediction': ('1', '3', '0', '3'), 'info': {'level': 1}}
+{'name': 'yayatoolate', 'prediction': ('3', '1', '0', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['利物浦'], 'level': 3}}
+{'name': '建筑学概论', 'prediction': ('0', '3', '0', '3'), 'info': {'interest': ['阿森纳'], 'level': 2}}
+{'name': '芳阳', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['国际米兰', '上海东亚'], 'level': 17}}
+{'name': '我爱小威胁', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 10}}
+{'name': 'LHMliming', 'prediction': ('1', '3', '1', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '切尔西', 'level': 16}}
+{'name': 'MVPirlo', 'prediction': ('0', '0', '0', '1'), 'info': {'laliga主队': '巴塞罗那', 'interest': ['AC米兰', '巴塞罗那', '山东鲁能'], 'seriea主队': 'AC米兰', 'level': 23}}
+{'name': 'T-MAnC', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳', '梅塞德斯-奔驰'], 'level': 7}}
+{'name': '你我他群爆', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['阿森纳', '曼联', 'AC米兰', '巴塞罗那', '拜仁慕尼黑', '多特蒙德'], 'level': 7}}
+{'name': 'chadelu', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['切尔西', '曼城', '巴塞罗那', '皇家马德里'], 'level': 17}}
+{'name': 'qza920513', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'seriea主队': '国际米兰', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['阿森纳', '阿斯顿维拉', '布莱克本', '切尔西', '埃弗顿', '曼城', '纽卡斯尔联', '桑德兰', '西汉姆', '切沃', '佛罗伦萨', '国际米兰', 'AC米兰', '那不勒斯', '罗马', '马德里竞技', '塞维利亚', '瓦伦西亚', '皇家马德里', '拉科鲁尼亚', '毕尔巴鄂竞技', '多特蒙德', '沙尔克04', '不莱梅', '沃尔夫斯堡', '斯图加特', '门兴格拉德巴赫', '里昂', '波尔多', '雷恩', '巴黎圣日耳曼', '马赛', '里尔', '摩纳哥', '朗斯', '葡萄牙(欧洲杯)', '克罗地亚(欧洲杯)', '英格兰(欧洲杯)'], 'level': 10}}
+{'name': 'wxcl', 'prediction': ('3', '1', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '利物浦', 'interest': ['法拉利', '拜仁慕尼黑'], 'level': 8}}
+{'name': '水转皮尔洛', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '马德里竞技', 'bundesliga主队': '沃尔夫斯堡', 'premierleague主队': '阿森纳', 'seriea主队': '佛罗伦萨', 'ligue1主队': '里昂', 'interest': ['尤文图斯'], 'level': 10}}
+{'name': 'aalaaa', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['波士顿凯尔特人', '芝加哥公牛', '休斯顿火箭', '达拉斯小牛', '孟菲斯灰熊', '洛杉矶湖人', '阿森纳', '切尔西', '利物浦', '曼城', '曼联', '皇家马德里', '江苏舜天', '葡萄牙(欧洲杯)', '意大利(欧洲杯)', '英格兰(欧洲杯)'], 'level': 26}}
+{'name': 'lelieldino', 'prediction': ('0', '0', '1', '3'), 'info': {'interest': ['布鲁克林篮网', '波士顿凯尔特人', '纽约尼克斯', '费城76人', '多伦多猛龙', '芝加哥公牛', '克利夫兰骑士', '底特律活塞', '印第安纳步行者', '密尔沃基雄鹿', '亚特兰大鹰队', '夏洛特山猫', '迈阿密热火', '奥兰多魔术', '华盛顿奇才', '休斯顿火箭', '达拉斯小牛', '孟菲斯灰熊', '新奥尔良鹈鹕', '圣安东尼奥马刺', '丹佛掘金', '明尼苏达森林狼', '波特兰开拓者', '俄克拉荷马城雷霆', '犹他爵士', '金州勇士', '洛杉矶快船', '洛杉矶湖人', '菲尼克斯太阳', '萨克拉门托国王', '阿森纳', '切尔西', '埃弗顿', '利物浦', '曼联', '托特纳姆热刺', '巴塞罗那', '广州恒大', '江苏舜天'], 'level': 27}}
+{'name': 'perish1992', 'prediction': ('1', '1', '1', '3'), 'info': {'level': 0}}
+{'name': '未命名用户', 'prediction': ('3', '1', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 12}}
+{'name': 'liujiajunrrr', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['切尔西'], 'level': 11}}
+{'name': '黑尼慕仁拜', 'prediction': ('3', '3', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 7}}
+{'name': '5566zhi', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['休斯顿火箭'], 'level': 27}}
+{'name': '傲天大帝', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['圣安东尼奥马刺'], 'seriea主队': 'AC米兰', 'level': 28}}
+{'name': '此时此刻焉', 'prediction': ('3', '1', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '曼城', 'interest': ['华盛顿奇才', '金州勇士', '洛杉矶湖人', '曼城', '托特纳姆热刺', '皇家马德里', '拜仁慕尼黑', '斯图加特'], 'level': 3}}
+{'name': '桑迪卡索拉', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 15}}
+{'name': '飘忽mai', 'prediction': ('0', '0', '0', '3'), 'info': {'level': 3}}
+{'name': 'Bluerss', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['切尔西', '皇家马德里', '广州恒大', '上海申鑫'], 'level': 11}}
+{'name': 'kreuz350', 'prediction': ('1', '3', '0', '3'), 'info': {'interest': ['佛罗伦萨'], 'seriea主队': '佛罗伦萨', 'level': 26}}
+{'name': '雷不狼斩MS', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['拜仁慕尼黑', '多特蒙德'], 'level': 2}}
+{'name': 'shanbinseven', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['迈阿密热火', '休斯顿火箭', '达拉斯小牛', '江苏龙', '皇家马德里'], 'level': 23}}
+{'name': '暗夜舞者', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['波士顿凯尔特人', '芝加哥公牛', '奥兰多魔术', '圣安东尼奥马刺', '俄克拉荷马城雷霆', '洛杉矶湖人', '八一火箭', '福建中华鲟', '阿森纳', '切尔西', '曼联', '佛罗伦萨', '国际米兰', '拉齐奥', 'AC米兰', '那不勒斯', '罗马', '桑普多利亚', '马德里竞技', '巴塞罗那', '皇家马德里', '比利亚雷亚尔', '拉科鲁尼亚', '拜仁慕尼黑', '多特蒙德'], 'level': 17}}
+{'name': 'safen1947', 'prediction': ('3', '1', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'interest': ['休斯顿火箭', '俄克拉荷马城雷霆', '金州勇士', '利物浦', '佛罗伦萨', '皇家马德里', '拜仁慕尼黑', '德国(欧洲杯)'], 'seriea主队': '佛罗伦萨', 'level': 33}}
+{'name': 'yajpp', 'prediction': ('3', '0', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['洛杉矶湖人', '切尔西'], 'level': 12}}
+{'name': 'kcosh', 'prediction': ('1', '3', '0', '3'), 'info': {'level': 2}}
+{'name': 'Namidairo', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['AC米兰', '桑普多利亚'], 'level': 4}}
+{'name': 'Rona1do', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '阿森纳', 'interest': ['阿森纳', '那不勒斯', '皇家马德里'], 'level': 4}}
+{'name': '逍遥花满天', 'prediction': ('0', '1', '0', '1'), 'info': {'interest': ['纽约尼克斯', '费城76人', '芝加哥公牛', '底特律活塞', '印第安纳步行者', '亚特兰大鹰队', '迈阿密热火', '奥兰多魔术', '华盛顿奇才', '休斯顿火箭', '孟菲斯灰熊', '明尼苏达森林狼', '波特兰开拓者', '俄克拉荷马城雷霆', '金州勇士', '洛杉矶快船', '洛杉矶湖人', '菲尼克斯太阳', '萨克拉门托国王', '阿森纳'], 'level': 19}}
+{'name': 'aio91', 'prediction': ('3', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳', '切尔西', '埃弗顿', '利物浦', '曼城', '曼联', '托特纳姆热刺', '马德里竞技', '巴塞罗那', '塞维利亚', '皇家马德里', '马拉加', '毕尔巴鄂竞技', '拜仁慕尼黑', '多特蒙德', '沙尔克04', '荷兰(欧洲杯)', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)', '克罗地亚(欧洲杯)', '乌克兰(欧洲杯)', '法国(欧洲杯)', '英格兰(欧洲杯)'], 'level': 14}}
+{'name': '卖药的', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['波士顿凯尔特人', '芝加哥公牛', '拜仁慕尼黑'], 'level': 13}}
+{'name': '停球帝', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '巴塞罗那', 'premierleague主队': '阿森纳', 'interest': ['阿森纳', 'AC米兰', '巴塞罗那', '广州恒大', '西班牙(欧洲杯)'], 'seriea主队': 'AC米兰', 'level': 5}}
+{'name': 'zpycqcq', 'prediction': ('1', '1', '3', '0'), 'info': {'laliga主队': '毕尔巴鄂竞技', 'bundesliga主队': '沙尔克04', 'premierleague主队': '曼联', 'seriea主队': '佛罗伦萨', 'ligue1主队': '马赛', 'interest': ['曼联', '佛罗伦萨', '马德里竞技', '沙尔克04', '里昂'], 'level': 3}}
+{'name': '哦hoho', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['曼城', '皇家马德里'], 'level': 1}}
+{'name': 'cbaggio713', 'prediction': ('3', '3', '3', '1'), 'info': {'interest': ['国际米兰'], 'level': 7}}
+{'name': '裸奔的MADAO', 'prediction': ('1', '3', '1', '3'), 'info': {'interest': ['切尔西', '纽卡斯尔联', '拜仁慕尼黑', '多特蒙德', '广州恒大'], 'level': 3}}
+{'name': '双喜哥', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['阿森纳', '皇家马德里', '上海东亚', '德国(欧洲杯)'], 'level': 21}}
+{'name': '教授爱踢球', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 33}}
+{'name': '飘过楼兰', 'prediction': ('1', '3', '3', '3'), 'info': {'level': 0}}
+{'name': '裴金明Faye', 'prediction': ('3', '3', '3', '3'), 'info': {'level': 1}}
+{'name': '绵绵二丁目', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'interest': ['红牛', '阿森纳', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '沙尔克04'], 'level': 34}}
+{'name': 'w8724272', 'prediction': ('3', '0', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '切尔西', 'seriea主队': 'AC米兰', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['尤文图斯', 'AC米兰', '拜仁慕尼黑', '俄罗斯(欧洲杯)', '意大利(欧洲杯)'], 'level': 14}}
+{'name': '小多多怀庭', 'prediction': ('3', '1', '3', '0'), 'info': {'premierleague主队': '利物浦', 'interest': ['利物浦'], 'level': 28}}
+{'name': 'kunzky', 'prediction': ('3', '1', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '不莱梅', 'interest': ['波士顿凯尔特人', '纽约尼克斯', '芝加哥公牛', '迈阿密热火', '休斯顿火箭', '达拉斯小牛', '圣安东尼奥马刺', '波特兰开拓者', '俄克拉荷马城雷霆', '金州勇士', '洛杉矶快船', '洛杉矶湖人', '法拉利', '阿森纳', '切尔西', '利物浦', '曼城', '曼联', '托特纳姆热刺', '国际米兰', 'AC米兰', '罗马', '马德里竞技', '皇家马德里', '拜仁慕尼黑', '勒沃库森', '多特蒙德', '沙尔克04', '不莱梅', '俄罗斯(欧洲杯)', '德国(欧洲杯)', '意大利(欧洲杯)', '乌克兰(欧洲杯)'], 'level': 32}}
+{'name': 'beyondaz', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['圣安东尼奥马刺', '浙江广厦猛狮', '托特纳姆热刺', '国际米兰', '多特蒙德'], 'seriea主队': '国际米兰', 'level': 18}}
+{'name': 'IV逗号', 'prediction': ('0', '1', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'seriea主队': '佛罗伦萨', 'ligue1主队': '马赛', 'interest': ['达拉斯小牛', '广东华南虎', '北京鸭'], 'level': 13}}
+{'name': 'HeroKL', 'prediction': ('1', '1', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['休斯顿火箭', '拜仁慕尼黑', '荷兰(欧洲杯)', '德国(欧洲杯)'], 'level': 7}}
+{'name': 'R0driguez', 'prediction': ('0', '3', '0', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['切尔西', '桑德兰'], 'level': 9}}
+{'name': '名帅拉姆', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 2}}
+{'name': '白兰度', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '曼联', 'interest': ['波士顿凯尔特人', '法拉利', '曼联', '皇家马德里', '拜仁慕尼黑'], 'level': 28}}
+{'name': '食之', 'prediction': ('3', '0', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '沙尔克04', 'premierleague主队': '曼联', 'seriea主队': '尤文图斯', 'interest': ['切尔西', '尤文图斯', '皇家马德里', '沙尔克04', '意大利(欧洲杯)'], 'level': 10}}
+{'name': '右岸zzy', 'prediction': ('1', '3', '0', '1'), 'info': {'laliga主队': '巴塞罗那', 'interest': ['迈阿密热火', '休斯顿火箭', '洛杉矶快船', '洛杉矶湖人', '广东华南虎', '阿森纳', '曼城', '曼联', '巴塞罗那', '西班牙(欧洲杯)'], 'level': 17}}
+{'name': '塞尔吉阿文', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 2}}
+{'name': '小M哥哥', 'prediction': ('0', '1', '0', '3'), 'info': {'interest': ['阿森纳', '利物浦', 'AC米兰', '巴塞罗那', '拜仁慕尼黑'], 'level': 8}}
+{'name': '挽残影', 'prediction': ('0', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '切尔西', 'level': 17}}
+{'name': '尔南德斯坦', 'prediction': ('0', '3', '0', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['埃弗顿', '曼联', '国际米兰', '多特蒙德', '上海申花', '英格兰(欧洲杯)'], 'seriea主队': '国际米兰', 'level': 10}}
+{'name': '七分懒神', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['巴塞罗那'], 'level': 2}}
+{'name': 'xiaoy319', 'prediction': ('0', '0', '0', '3'), 'info': {'interest': ['AC米兰'], 'seriea主队': 'AC米兰', 'level': 14}}
+{'name': '冰帝没鼻子', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '马德里竞技', 'bundesliga主队': '沙尔克04', 'premierleague主队': '切尔西', 'seriea主队': '罗马', 'ligue1主队': '里昂', 'interest': ['布鲁克林篮网', '切尔西', '罗马', '马德里竞技', '沙尔克04', '里昂', '葡萄牙(欧洲杯)', '英格兰(欧洲杯)'], 'level': 36}}
+{'name': '可不是马甲', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['切尔西', '哈尔滨毅腾'], 'level': 7}}
+{'name': '爱兔子的猫', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '曼城', 'seriea主队': '那不勒斯', 'interest': ['巴塞罗那', '西班牙(欧洲杯)'], 'level': 6}}
+{'name': '哎哎艾玛', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 1}}
+{'name': '啷里革狼', 'prediction': ('0', '3', '1', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联'], 'level': 17}}
+{'name': 'flowine1000', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['圣安东尼奥马刺'], 'level': 16}}
+{'name': 'luozhun312', 'prediction': ('0', '3', '1', '3'), 'info': {'interest': ['底特律活塞', '尤文图斯'], 'level': 13}}
+{'name': '练霓裳.', 'prediction': ('3', '0', '0', '3'), 'info': {'level': 2}}
+{'name': 'Leslie.C', 'prediction': ('3', '0', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'interest': ['孟菲斯灰熊', '洛杉矶湖人', '阿森纳', '皇家马德里', '拜仁慕尼黑'], 'level': 5}}
+{'name': 'fyfyxyz', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['洛杉矶湖人', '皇家马德里'], 'level': 2}}
+{'name': '龙尐', 'prediction': ('3', '1', '1', '3'), 'info': {'interest': ['波士顿凯尔特人', '纽约尼克斯', '曼联', '皇家马德里'], 'level': 12}}
+{'name': 'BETA派', 'prediction': ('0', '0', '0', '0'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'seriea主队': 'AC米兰', 'ligue1主队': '马赛', 'level': 10}}
+{'name': '专恒我', 'prediction': ('3', '0', '3', '1'), 'info': {'interest': ['迈阿密热火', '法拉利', '阿森纳', '切尔西', '国际米兰', '罗马', '马德里竞技', '多特蒙德'], 'level': 9}}
+{'name': 'hstottigoal', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['纽约尼克斯', '利物浦', '罗马'], 'level': 29}}
+{'name': 'maxschmied', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['拜仁慕尼黑', '上海东亚'], 'level': 11}}
+{'name': '领袖tracy', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['休斯顿火箭'], 'level': 40}}
+{'name': 'redzhang', 'prediction': ('1', '1', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'interest': ['山东鲁能'], 'level': 3}}
+{'name': 'zengxinirvana', 'prediction': ('3', '0', '3', '3'), 'info': {'interest': ['尤文图斯'], 'level': 17}}
+{'name': 'cshuyu', 'prediction': ('0', '0', '3', '3'), 'info': {'level': 20}}
+{'name': 'librapollo', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '拜仁慕尼黑', 'interest': ['巴塞罗那', '拜仁慕尼黑', '多特蒙德', '西班牙(欧洲杯)'], 'level': 16}}
+{'name': '2元玩R9', 'prediction': ('3', '1', '3', '1'), 'info': {'level': 1}}
+{'name': 'TYJ-IKER', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '桑德兰', 'interest': ['桑德兰', '皇家马德里'], 'level': 6}}
+{'name': '爱情会悲伤', 'prediction': ('3', '0', '0', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 0}}
+{'name': '荣耀之白', 'prediction': ('1', '0', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '切尔西', 'interest': ['切尔西', 'AC米兰', '皇家马德里', '意大利(欧洲杯)'], 'seriea主队': 'AC米兰', 'level': 14}}
+{'name': '杰克枪手', 'prediction': ('0', '3', '3', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳'], 'level': 14}}
+{'name': 'neshkxd615', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 7}}
+{'name': 'sasuke_狼', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'seriea主队': 'AC米兰', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['克利夫兰骑士', '迈阿密热火', '休斯顿火箭', '圣安东尼奥马刺', '洛杉矶湖人', '法拉利', '阿森纳', 'AC米兰', '皇家马德里', '拜仁慕尼黑', '意大利(欧洲杯)'], 'level': 4}}
+{'name': 'baihaojun', 'prediction': ('0', '3', '3', '3'), 'info': {'laliga主队': '马德里竞技', 'interest': ['迈阿密热火', '西班牙(欧洲杯)'], 'level': 30}}
+{'name': 'zhouhao519', 'prediction': ('3', '1', '3', '3'), 'info': {'premierleague主队': '利物浦', 'interest': ['利物浦'], 'level': 12}}
+{'name': '抵不过流年', 'prediction': ('3', '3', '0', '3'), 'info': {'interest': ['切尔西', '国际米兰', '尤文图斯', '皇家马德里', '毕尔巴鄂竞技', '拜仁慕尼黑', '多特蒙德', '巴黎圣日耳曼'], 'level': 0}}
+{'name': '雾散e破晓', 'prediction': ('0', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '沙尔克04', 'interest': ['皇家马德里', '沙尔克04', '葡萄牙(欧洲杯)'], 'level': 16}}
+{'name': '耳朵别疼', 'prediction': ('3', '1', '3', '3'), 'info': {'level': 11}}
+{'name': '好名狗肏了', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'ligue1主队': '朗斯', 'interest': ['阿森纳', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '广州恒大', '贵州人和', '成都谢菲联', '北京理工'], 'level': 13}}
+{'name': '627840262', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['阿森纳', '拉齐奥', '皇家马德里', '沙尔克04', '广州恒大'], 'level': 1}}
+{'name': 'speed800607', 'prediction': ('3', '1', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 24}}
+{'name': 'baihualin78', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['利物浦', 'AC米兰', '瓦伦西亚'], 'seriea主队': 'AC米兰', 'level': 13}}
+{'name': 'AC米兰卡卡', 'prediction': ('3', '3', '1', '3'), 'info': {'seriea主队': 'AC米兰', 'level': 4}}
+{'name': '秦特拉齐', 'prediction': ('3', '0', '0', '3'), 'info': {'level': 0}}
+{'name': '我在黄河边', 'prediction': ('3', '3', '0', '3'), 'info': {'level': 0}}
+{'name': 'cheshirecat', 'prediction': ('3', '3', '3', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拉齐奥', '拜仁慕尼黑', '不莱梅'], 'level': 28}}
+{'name': 'castor1982', 'prediction': ('3', '0', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'interest': ['休斯顿火箭', '犹他爵士', '阿森纳', '德国(欧洲杯)'], 'seriea主队': '尤文图斯', 'level': 5}}
+{'name': 'my_seven', 'prediction': ('0', '3', '0', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '切尔西', 'interest': ['阿森纳'], 'seriea主队': '佛罗伦萨', 'level': 9}}
+{'name': 'zxeric55', 'prediction': ('1', '1', '3', '3'), 'info': {'laliga主队': '瓦伦西亚', 'bundesliga主队': '勒沃库森', 'premierleague主队': '切尔西', 'seriea主队': '拉齐奥', 'ligue1主队': '波尔多', 'interest': ['迈阿密热火', '休斯顿火箭', '孟菲斯灰熊', '金州勇士', '萨克拉门托国王', '法拉利', '迈凯伦', '切尔西', '拉齐奥', '瓦伦西亚', '勒沃库森', '波尔多', '梅塞德斯-奔驰'], 'level': 20}}
+{'name': '沉沦2012', 'prediction': ('0', '0', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '切尔西', 'seriea主队': '国际米兰', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['芝加哥公牛', '迈阿密热火', '休斯顿火箭', '洛杉矶快船', '洛杉矶湖人', '阿森纳', '切尔西', '利物浦', '曼城', '纽卡斯尔联', '斯托克城', '托特纳姆热刺', '国际米兰', '尤文图斯', 'AC米兰', '罗马', '马德里竞技', '塞维利亚', '瓦伦西亚', '皇家马德里', '比利亚雷亚尔', '马拉加', '毕尔巴鄂竞技', '拜仁慕尼黑', '勒沃库森', '多特蒙德', '沙尔克04', '里昂', '巴黎圣日耳曼', '马赛', '里尔', '江苏舜天', '伯明翰', '荷兰(欧洲杯)', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '意大利(欧洲杯)', '英格兰(欧洲杯)'], 'level': 8}}
+{'name': '孙figo', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '阿森纳', 'interest': ['芝加哥公牛'], 'level': 8}}
+{'name': '斯坦福花', 'prediction': ('3', '1', '3', '3'), 'info': {'interest': ['切尔西', '罗马', '多特蒙德'], 'level': 14}}
+{'name': '邪恶彩蝶', 'prediction': ('3', '1', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'seriea主队': '尤文图斯', 'interest': ['波士顿凯尔特人', '阿森纳'], 'level': 14}}
+{'name': '豆腐脑超人', 'prediction': ('3', '1', '3', '3'), 'info': {'level': 2}}
+{'name': '抓鱼', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['迈阿密热火', '北京鸭', '山东金狮', 'AC米兰', '巴塞罗那', '皇家马德里'], 'level': 30}}
+{'name': 'thirsty', 'prediction': ('3', '1', '1', '3'), 'info': {'interest': ['拜仁慕尼黑'], 'level': 4}}
+{'name': '海宝罐头', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['切尔西'], 'level': 2}}
+{'name': '长明神灯', 'prediction': ('3', '1', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '切尔西', 'interest': ['圣安东尼奥马刺', '切尔西', '拜仁慕尼黑', '荷兰(欧洲杯)', '重庆力帆', '重庆FC'], 'level': 10}}
+{'name': '苍穹神骏_HJ', 'prediction': ('0', '0', '1', '3'), 'info': {'laliga主队': '马德里竞技', 'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'interest': ['休斯顿火箭', '阿森纳', '拜仁慕尼黑', '多特蒙德', '德国(欧洲杯)', '法国(欧洲杯)'], 'level': 9}}
+{'name': 'shalooloo', 'prediction': ('3', '1', '0', '3'), 'info': {'level': 5}}
+{'name': '牙擦苏07', 'prediction': ('3', '1', '1', '3'), 'info': {'interest': ['利物浦', '托特纳姆热刺'], 'level': 20}}
+{'name': 'wuguishouling', 'prediction': ('3', '0', '0', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 14}}
+{'name': 'JILA11', 'prediction': ('3', '0', '1', '3'), 'info': {'bundesliga主队': '多特蒙德', 'premierleague主队': '利物浦', 'interest': ['法拉利', '利物浦', '佛罗伦萨', 'AC米兰', '瓦伦西亚', '多特蒙德'], 'level': 8}}
+{'name': '夏雨袭', 'prediction': ('3', '0', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '阿森纳', 'seriea主队': 'AC米兰', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['波士顿凯尔特人', '布鲁克林篮网', '印第安纳步行者', '洛杉矶快船', '阿森纳', '切尔西', '曼城', '曼联', '尤文图斯', 'AC米兰', '罗马', '巴塞罗那', '皇家马德里', '拜仁慕尼黑', '多特蒙德', '巴黎圣日耳曼', '德国(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)'], 'level': 22}}
+{'name': '保罗痞儿斯', 'prediction': ('3', '1', '3', '0'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '多特蒙德', 'premierleague主队': '阿森纳', 'seriea主队': '罗马', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['阿森纳', '拜仁慕尼黑', '多特蒙德', '沙尔克04'], 'level': 21}}
+{'name': '华丑至靓仔', 'prediction': ('0', '0', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '阿森纳', 'interest': ['迈阿密热火', '阿森纳', '切尔西', '皇家马德里', '意大利(欧洲杯)', '英格兰(欧洲杯)'], 'level': 13}}
+{'name': '四平青年', 'prediction': ('3', '0', '1', '3'), 'info': {'level': 8}}
+{'name': 'pampinea', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'interest': ['波士顿凯尔特人', '洛杉矶湖人'], 'seriea主队': '国际米兰', 'level': 31}}
+{'name': 'Sp休伊', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['法拉利', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 15}}
+{'name': 'M.Overmars', 'prediction': ('0', '0', '1', '0'), 'info': {'premierleague主队': '阿森纳', 'interest': ['阿森纳', '利物浦', '国际米兰', '巴塞罗那', '塞维利亚', '多特蒙德'], 'level': 6}}
+{'name': 'carls_c', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '托特纳姆热刺', 'seriea主队': '帕尔马', 'interest': ['圣安东尼奥马刺', '洛杉矶湖人', '广东华南虎', '东莞烈豹', '迈凯伦', '阿森纳', '托特纳姆热刺', '皇家马德里', '拜仁慕尼黑', '里昂', '广州恒大', '广州富力', '帕尔马', '梅塞德斯-奔驰', '意大利(欧洲杯)', '广东日之泉'], 'level': 13}}
+{'name': '逸统天下', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '巴塞罗那', 'bundesliga主队': '多特蒙德', 'premierleague主队': '利物浦', 'seriea主队': '尤文图斯', 'ligue1主队': '里尔', 'interest': ['波士顿凯尔特人', '迈阿密热火', '奥兰多魔术', '达拉斯小牛', '圣安东尼奥马刺', '丹佛掘金', '波特兰开拓者', '利物浦', '曼城', '曼联', '纽卡斯尔联', '托特纳姆热刺', '尤文图斯', '巴塞罗那', '拜仁慕尼黑', '多特蒙德', '里昂', '广州恒大', '西班牙(欧洲杯)'], 'level': 14}}
+{'name': 'xunyouzhe', 'prediction': ('0', '0', '0', '3'), 'info': {'interest': ['阿森纳'], 'level': 5}}
+{'name': 'shidainice', 'prediction': ('3', '0', '1', '3'), 'info': {'interest': ['利物浦', 'AC米兰', '多特蒙德', '山东鲁能'], 'level': 1}}
+{'name': '门神诺伊尔', 'prediction': ('3', '3', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['洛杉矶湖人', '拜仁慕尼黑', '德国(欧洲杯)'], 'level': 16}}
+{'name': 'yuyoufree', 'prediction': ('3', '1', '0', '3'), 'info': {'laliga主队': '皇家马德里', 'premierleague主队': '曼联', 'level': 15}}
+{'name': '357Dj', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '马德里竞技', 'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'seriea主队': '佛罗伦萨', 'level': 4}}
+{'name': 'VLICAN', 'prediction': ('3', '3', '3', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '不莱梅', 'premierleague主队': '曼城', 'seriea主队': '罗马', 'ligue1主队': '巴黎圣日耳曼', 'interest': ['曼城', '罗马', '江苏舜天'], 'level': 9}}
+{'name': '懒人围观', 'prediction': ('3', '0', '1', '3'), 'info': {'level': 15}}
+{'name': 'kop7521', 'prediction': ('3', '0', '3', '3'), 'info': {'laliga主队': '瓦伦西亚', 'bundesliga主队': '不莱梅', 'premierleague主队': '利物浦', 'seriea主队': '那不勒斯', 'interest': ['法拉利', '雷诺', '利物浦', '尤文图斯', '瓦伦西亚', '皇家马德里', '拜仁慕尼黑', '不莱梅', '杭州绿城', '上海东亚', '德国(欧洲杯)', '西班牙(欧洲杯)'], 'level': 8}}
+{'name': 'yudafu123', 'prediction': ('3', '3', '1', '3'), 'info': {'interest': ['尤文图斯', 'AC米兰', '巴塞罗那', '荷兰(欧洲杯)'], 'level': 15}}
+{'name': 'hanyan618', 'prediction': ('3', '1', '3', '3'), 'info': {'level': 2}}
+{'name': 'Ronald-Beckham', 'prediction': ('3', '3', '0', '3'), 'info': {'premierleague主队': '曼联', 'interest': ['曼联', '国际米兰'], 'seriea主队': '国际米兰', 'level': 5}}
+{'name': 'redredhong', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['休斯顿火箭'], 'level': 26}}
+{'name': '带盾前锋', 'prediction': ('3', '3', '1', '3'), 'info': {'premierleague主队': '切尔西', 'interest': ['阿森纳', '切尔西', '利物浦', '曼城', '曼联', '托特纳姆热刺', '国际米兰', '尤文图斯', 'AC米兰', '那不勒斯', '罗马', '马德里竞技', '巴塞罗那', '瓦伦西亚', '皇家马德里', '拜仁慕尼黑', '勒沃库森', '多特蒙德', '沙尔克04', '斯图加特', '里昂', '巴黎圣日耳曼', '马赛', '摩纳哥', '广州恒大', '大连阿尔滨', '辽宁宏运', '荷兰(欧洲杯)', '德国(欧洲杯)', '葡萄牙(欧洲杯)', '西班牙(欧洲杯)', '意大利(欧洲杯)', '法国(欧洲杯)', '英格兰(欧洲杯)'], 'level': 17}}
+{'name': 'dintend', 'prediction': ('0', '0', '1', '3'), 'info': {'bundesliga主队': '多特蒙德', 'interest': ['波士顿凯尔特人', 'AC米兰'], 'seriea主队': 'AC米兰', 'level': 25}}
+{'name': '称臣德意志', 'prediction': ('3', '1', '1', '3'), 'info': {'bundesliga主队': '拜仁慕尼黑', 'interest': ['拜仁慕尼黑'], 'level': 5}}
+{'name': 'pastacyndi', 'prediction': ('3', '3', '1', '3'), 'info': {'laliga主队': '皇家马德里', 'bundesliga主队': '拜仁慕尼黑', 'premierleague主队': '切尔西', 'seriea主队': '那不勒斯', 'ligue1主队': '里昂', 'interest': ['切尔西', '皇家马德里'], 'level': 15}}
+{'name': 'らsimpsonハ', 'prediction': ('3', '3', '3', '3'), 'info': {'interest': ['阿森纳', '皇家马德里'], 'level': 1}}
+{'name': 'torrar', 'prediction': ('3', '3', '0', '3'), 'info': {'laliga主队': '毕尔巴鄂竞技', 'bundesliga主队': '门兴格拉德巴赫', 'premierleague主队': '利物浦', 'ligue1主队': '雷恩', 'interest': ['利物浦'], 'level': 10}}
+{'name': 'commandery', 'prediction': ('1', '3', '1', '3'), 'info': {'interest': ['法拉利', '迈凯伦'], 'level': 2}}
