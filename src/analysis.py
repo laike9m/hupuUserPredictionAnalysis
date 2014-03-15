@@ -24,6 +24,8 @@ document示例 {
 (4) 评价联赛关注关联度
 """
 import pymongo
+
+import conf
 from clubdata import club
 
 RESULTS = (1, 3, 3, 3)
@@ -35,7 +37,7 @@ class DataAnalysis():
     def __init__(self):
         self.client = pymongo.MongoClient()
         self.db = self.client.db1
-        self.collection = self.db['hupu_prediction_9039396']
+        self.collection = self.db['hupu_prediction_%d' % conf.page_id]
 
     def readdata(self):
         for doc in self.collection.find():
@@ -71,7 +73,8 @@ class DataAnalysis():
         for d in stats:
             d['avg_hit'] = round(d['hit'] / d['amount'], 3)
             d['avg_gap'] = round(d['gap'] / d['amount'], 3)
-        pprint(stats)
+        with open('../data/level_correlation_%d.txt' % conf.page_id, 'wt') as f:
+            pprint(stats, f)
 
     def calc_loi_correlation(self):
         from pprint import pprint
@@ -103,7 +106,7 @@ class DataAnalysis():
             v['avg_hit'] = round(v['hit'] / v['amount'], 3)
             v['avg_gap'] = round(v['gap'] / v['amount'], 3)
 
-        with open('loi_correlation.txt', 'wt') as f:
+        with open('../data/loi_correlation_%d.txt' % conf.page_id, 'wt') as f:
             pprint(stats, f)
             pprint(stats2, f)
 
@@ -113,5 +116,5 @@ if __name__ == '__main__':
     #analyzer.evaluate_correctness()
     #analyzer.find_loi()
     #analyzer.readdata()
-    #analyzer.calc_level_correlation()
+    analyzer.calc_level_correlation()
     analyzer.calc_loi_correlation()

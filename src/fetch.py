@@ -6,19 +6,20 @@
 import lxml.html as html
 import re
 
+import requests
 from lxml import etree
 from html.parser import HTMLParser
 from collections import OrderedDict
 from concurrent.futures import ThreadPoolExecutor
 
-import requests
+import conf
 from clubdata import club, clubname_alias
 
 
 class DataCollector():
 
     def __init__(self):
-        self.base_url = 'http://bbs.hupu.com/9039396.html'
+        self.base_url = 'http://bbs.hupu.com/%d.html' % conf.page_id
         self.page_url_list = ()
         self.vs = ('拜仁VS阿森[纳|娜]', '马[竞|竟]VS米兰', '巴萨VS曼城', '巴黎VS勒沃库森')
         self.vs_pattern = re.compile(r'({0}.*?\d).*({1}.*?\d).*({2}.*?\d).*({3}.*?\d)'\
@@ -184,6 +185,6 @@ if __name__ == "__main__":
     test = DataCollector()
     test.fetch_all()
     #test.fetch_onepage(test.base_url)
-    with open("fetched_info.txt", 'wt', encoding='utf-8') as f:
+    with open("../data/fetched_info.txt", 'wt', encoding='utf-8') as f:
         for info_item in test.fetched_info:
             f.write(str(info_item) + '\n')
