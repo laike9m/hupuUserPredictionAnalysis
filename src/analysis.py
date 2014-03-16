@@ -114,13 +114,6 @@ class DataAnalysis():
             pprint(self.stats_loi2, f)
 
     def write_to_excel(self):
-        """
-        [{'amount': 267, 'avg_gap': 4.15, 'avg_hit': 2.112, 'gap': 1108, 'hit': 564},
-         {'amount': 168, 'avg_gap': 4.185, 'avg_hit': 2.083, 'gap': 703, 'hit': 350},
-         {'amount': 87, 'avg_gap': 4.241, 'avg_hit': 2.103, 'gap': 369, 'hit': 183},
-         {'amount': 32, 'avg_gap': 3.875, 'avg_hit': 2.156, 'gap': 124, 'hit': 69},
-         {'amount': 18, 'avg_gap': 4.5, 'avg_hit': 2.0, 'gap': 81, 'hit': 36}]
-        """
         import xlwt
         book = xlwt.Workbook()
         sheet1 = book.add_sheet('Sheet 1', cell_overwrite_ok=True)
